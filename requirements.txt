@@ -1,0 +1,9 @@
+# AI Fit — pinned dependencies (exact versions).
+# Mirrors [project.dependencies] in pyproject.toml.
+
+# Bedrock Runtime client (Converse API with tool use).
+boto3==1.35.99
+# Property-based testing for the deterministic Guardrail Validator and pure helpers.
+hypothesis==6.112.2
+# Test runner.
+pytest==8.3.3

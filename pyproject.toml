@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ai-fit"
+version = "0.1.0"
+description = "AI Fit — agentic AWS Bedrock (Claude Opus) assistant for ALDO fit and occasion recommendations"
+requires-python = ">=3.10"
+dependencies = [
+    # Bedrock Runtime client (Converse API with tool use). Pinned exactly.
+    "boto3==1.35.99",
+    # Property-based testing for the deterministic validator and pure helpers.
+    "hypothesis==6.112.2",
+    # Test runner.
+    "pytest==8.3.3",
+]
+
+[tool.setuptools.packages.find]
+include = ["ai_fit*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]

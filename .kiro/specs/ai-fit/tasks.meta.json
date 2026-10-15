@@ -1,0 +1,749 @@
+{
+  "pbtResults": {
+    "5.5 Write property test for OMS dominance direction": {
+      "status": "passed",
+      "lastRunTimestamp": 1792099881513
+    },
+    "4.2 Write property test for offered-range membership": {
+      "status": "passed",
+      "lastRunTimestamp": 1792100184930
+    },
+    "3.2 Write property test for occasion normalization": {
+      "status": "passed",
+      "lastRunTimestamp": 1792100299090
+    },
+    "8.4 Write property test for quality classification": {
+      "status": "passed",
+      "lastRunTimestamp": 1792100391241
+    },
+    "8.10 Write property test for alternative-style ranking and cap": {
+      "status": "passed",
+      "lastRunTimestamp": 1792100442372
+    },
+    "8.6 Write property test for quality report ordering": {
+      "status": "passed",
+      "lastRunTimestamp": 1792100474091
+    },
+    "8.9 Write property test for occasion matching": {
+      "status": "passed",
+      "lastRunTimestamp": 1792100533747
+    }
+  },
+  "executionHistory": {
+    "1. Set up project structure, config, and testing framework": [
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792095781665
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792095792299
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792095985474
+      }
+    ],
+    "2.1 Implement CSV loaders and the in-memory store keyed for fast SKU and customer lookup": [
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792095782019
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792095989295
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792096538414
+      }
+    ],
+    "2.2 Implement the data-model mappers from raw CSV columns to the design's typed records": [
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792095782664
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792096544501
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792097219400
+      }
+    ],
+    "3.1 Implement the shared, side-effect-free occasion mapping": [
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792095782860
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792095990193
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792096539816
+      }
+    ],
+    "4.1 Implement `measurement_lookup`, `clamp_to_offered`, half-size arithmetic, and the OMS dominance / confidence-tier helpers": [
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792095782997
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792095991439
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792096541012
+      }
+    ],
+    "5.1 Implement `validate(proposed_decision, signals) -> ValidatedDecision`": [
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792095783240
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792097235154
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792097453078
+      }
+    ],
+    "6. Checkpoint - Ensure data layer, helpers, and validator tests pass": [
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792095783450
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792097457813
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792097468433
+      }
+    ],
+    "7.1 Implement `get_sku_fit_signals`, `get_customer_profile`, `get_product_catalog_entry`": [
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792095783595
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792097475857
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792097794901
+      }
+    ],
+    "7.2 Implement `get_sku_reviews`, `get_recommendation_outcomes`, `get_quality_returns_and_units`": [
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792095783755
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792097476930
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792097790657
+      }
+    ],
+    "8.1 Implement the recommendation-outcome write path (`record_recommendation_outcome`) and outcome store": [
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792095783913
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792097478348
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792097792095
+      }
+    ],
+    "8.3 Implement `generate_quality_issue_report` and `get_quality_returns_and_units` report logic": [
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792095784073
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792097479744
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792097793482
+      }
+    ],
+    "8.7 Implement `route_to_human_reviewer` and the audit log": [
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792095784214
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792097480639
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792097796330
+      }
+    ],
+    "8.8 Implement occasion matching and `find_alternative_styles`": [
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792095784394
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792097797340
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792098076468
+      }
+    ],
+    "9. Checkpoint - Ensure all tool and property tests pass": [
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792095784547
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792098087887
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792098091053
+      }
+    ],
+    "10.1 Author the Claude Opus system prompt encoding the rubric": [
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792095784691
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792098097359
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792098367002
+      }
+    ],
+    "10.2 Implement the structured-output parser/validator for Claude's returned object": [
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792095784935
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792098095250
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792098365875
+      }
+    ],
+    "11.1 Implement the ordered trace assembly with identifier masking": [
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792095785160
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792098096647
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792098365128
+      }
+    ],
+    "12.1 Implement the tool dispatcher with timeout, retries, and the required-tool guard": [
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792095785550
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792098370898
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792098560792
+      }
+    ],
+    "12.2 Implement the Bedrock Converse loop at temperature 0 wiring tools, Claude, validator, and trace": [
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792095785709
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792098564617
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792098978537
+      }
+    ],
+    "13.1 Implement the demo entry point producing a size recommendation, an occasion match result, and a visible masked Reasoning_Trace": [
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792095785864
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792098982157
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792099556227
+      }
+    ],
+    "14. Final checkpoint - Ensure all tests pass": [
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792095786032
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792099560249
+      },
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792099662761
+      }
+    ],
+    "3. Implement the Occasion Normalization Layer": [
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792096539947
+      }
+    ],
+    "4. Implement pure sizing helpers used by the validator": [
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792096541121
+      }
+    ],
+    "2. Build the data layer (CSV loader + in-memory store)": [
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792097219685
+      }
+    ],
+    "5. Implement the Guardrail Validator (deterministic backstop)": [
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792097453439
+      }
+    ],
+    "7. Implement the read Agent Tools (data access)": [
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792097795066
+      }
+    ],
+    "8. Implement the write/action Agent Tools and their logic": [
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792098076652
+      }
+    ],
+    "11. Implement the Reasoning Trace Builder": [
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792098365394
+      }
+    ],
+    "10. Implement the Reasoning Rubric and Structured Output Contract": [
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792098367200
+      }
+    ],
+    "12. Implement the Orchestrator (Bedrock Converse tool-use loop)": [
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792098978682
+      }
+    ],
+    "13. Wire the end-to-end demonstration scenario": [
+      {
+        "executionId": "b7d46eb9-5f8a-4c6a-acb2-494f0faba004",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792099556706
+      }
+    ],
+    "5.2 Write property test for validator determinism": [
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792099778957
+      },
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792099920815
+      }
+    ],
+    "5.3 Write property test for protected-attribute non-influence": [
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792099779947
+      },
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792099919927
+      }
+    ],
+    "5.4 Write property test for the non-measurement half-size cap": [
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792099781413
+      },
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792099923218
+      }
+    ],
+    "5.5 Write property test for OMS dominance direction": [
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792099782426
+      },
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792099922248
+      }
+    ],
+    "5.6 Write property test for measurement precedence": [
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792099783218
+      },
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792099924595
+      }
+    ],
+    "5.7 Write property test for confidence caps": [
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792099925560
+      },
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792100116146
+      }
+    ],
+    "5.8 Write property test for width/comfort warning-only behavior": [
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792099926942
+      },
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792100115228
+      }
+    ],
+    "5.9 Write property test for the required-tool guard": [
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792099928332
+      },
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792100112401
+      }
+    ],
+    "5.10 Write property test for global validator compliance": [
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792099929299
+      },
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792100111576
+      }
+    ],
+    "5.11 Write property test for outcome-signal reinforcement": [
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792099930281
+      },
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792100113762
+      }
+    ],
+    "2.3 Write unit tests for the data layer": [
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792100117696
+      },
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792100317226
+      }
+    ],
+    "3.2 Write property test for occasion normalization": [
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792100118480
+      },
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792100314884
+      }
+    ],
+    "4.2 Write property test for offered-range membership": [
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792100119915
+      },
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792100315835
+      }
+    ],
+    "7.3 Write unit tests for the read tools": [
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792100120927
+      },
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792100318206
+      }
+    ],
+    "8.2 Write unit test for outcome identifier masking": [
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792100121882
+      },
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792100319586
+      }
+    ],
+    "8.4 Write property test for quality classification": [
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792100320527
+      },
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792100550214
+      }
+    ],
+    "8.5 Write property test for the quality flag predicate": [
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792100321972
+      },
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792100551514
+      }
+    ],
+    "8.6 Write property test for quality report ordering": [
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792100322862
+      },
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792100552449
+      }
+    ],
+    "8.9 Write property test for occasion matching": [
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792100324326
+      },
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792100553861
+      }
+    ],
+    "8.10 Write property test for alternative-style ranking and cap": [
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792100325255
+      },
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792100554814
+      }
+    ],
+    "11.2 Write property test for trace identifier masking": [
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792100556234
+      },
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792100892136
+      }
+    ],
+    "12.3 Write integration tests with mocked Bedrock and mocked dispatcher": [
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792100557635
+      },
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792100893436
+      }
+    ],
+    "12.4 Write example/behavioral tests for Claude rubric adherence and stability": [
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792100559029
+      },
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792100894363
+      }
+    ],
+    "13.2 Write smoke tests for model wiring and the demo scenario": [
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792100559786
+      },
+      {
+        "executionId": "531486f1-9105-4468-87c6-fc86fd5a49c8",
+        "chatSessionId": "sess_2e61ddbc-2d6a-4eb0-9771-4fd4b220543f",
+        "timestamp": 1792100895554
+      }
+    ]
+  }
+}
