@@ -14,3 +14,7 @@ __pycache__/
 *.egg-info/
 build/
 dist/
+OMS Data_Feb24-Jan26_new.csv
+All OMS orders_Feb 2024 to Feb 2026.csv
+McGill_Instore_return_exchanges.csv
+.env

@@ -24,7 +24,7 @@ from pathlib import Path
 # Bedrock Converse API with tool use; this is the model id the orchestrator passes
 # to Converse. Override via the AI_FIT_* environment variables for a different
 # region, inference profile, or model revision without touching code.
-BEDROCK_MODEL_ID: str = "anthropic.claude-opus-4-20250514-v1:0"
+BEDROCK_MODEL_ID: str = "us.anthropic.claude-opus-5-5"
 
 # AWS region hosting the Bedrock Runtime endpoint.
 BEDROCK_REGION: str = "us-east-1"

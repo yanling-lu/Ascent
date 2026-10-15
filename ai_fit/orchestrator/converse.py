@@ -180,7 +180,6 @@ class BotoBedrockConverseClient:
                 messages=messages,
                 system=system,
                 toolConfig=tool_config,
-                inferenceConfig={"temperature": temperature},
             )
         except Exception as exc:  # noqa: BLE001 - classify then re-raise
             code = _botocore_error_code(exc)
