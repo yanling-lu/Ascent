@@ -1,0 +1,6 @@
+.DS_Store
+# Large raw data exports (exceed GitHub's 100MB limit / not for public repo)
+All OMS orders_*.csv
+OMS Data_*.csv
+McGill*.csv
+Transaction_Detail_*.csv

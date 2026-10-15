@@ -1,0 +1,501 @@
+﻿synthetic_customer_id,data_origin,shoe_sizing_system,usual_shoe_size,fit_issues,fit_tight_around_toes,fit_shoes_too_narrow,fit_shoes_too_wide,fit_heels_slip,fit_shoes_often_too_small,fit_shoes_often_too_big,fit_no_fit_issues,fit_not_sure,comfort_style_priority,usual_shopping_occasions,shops_work,shops_everyday,shops_going_out,shops_special_occasions,shops_school_university,shops_all_of_the_above,measurement_option_selected,measurement_status,measurements_completed,foot_length_cm,foot_width_cm,proposed_loyalty_points_earned,prototype_behavioral_tracking_consent_ASSUMED
+ALDO_SYN_0001,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,8,Shoes often feel too big,0,0,0,0,0,1,0,0,A balance of both,Everyday; Going out,0,1,1,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0002,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,10,Tight around my toes,1,0,0,0,0,0,0,0,Comfort,Everyday; Going out; Special occasions,0,1,1,1,0,0,At home,completed,1,25.0,9.1,75,Yes
+ALDO_SYN_0003,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9.5,Shoes feel too wide; Shoes often feel too small,0,0,1,0,1,0,0,0,A balance of both,Going out; School / University,0,0,1,0,1,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0004,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Shoes often feel too big,0,0,0,0,0,1,0,0,A balance of both,,0,0,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0005,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,Shoes feel too narrow; My heels slip; Shoes often feel too big,0,1,0,1,0,1,0,0,A balance of both,Work,1,0,0,0,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0006,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,My heels slip,0,0,0,1,0,0,0,0,Comfort,Special occasions,0,0,0,1,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0007,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,No fit issues,0,0,0,0,0,0,1,0,Comfort,Everyday; Going out,0,1,1,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0008,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Shoes often feel too big,0,0,0,0,0,1,0,0,A balance of both,Work; Everyday; Going out,1,1,1,0,0,0,At home,completed,1,22.5,7.9,75,Yes
+ALDO_SYN_0009,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,My heels slip; Shoes often feel too small,0,0,0,1,1,0,0,0,A balance of both,Everyday,0,1,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0010,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9.5,Shoes often feel too big,0,0,0,0,0,1,0,0,A balance of both,Work; Everyday,1,1,0,0,0,0,Maybe later,not_started,0,,,50,No
+ALDO_SYN_0011,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Tight around my toes; My heels slip; Shoes often feel too big,1,0,0,1,0,1,0,0,Comfort,Everyday; Special occasions,0,1,0,1,0,0,At home,completed,1,22.8,8.2,75,Yes
+ALDO_SYN_0012,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,My heels slip,0,0,0,1,0,0,0,0,A balance of both,Going out,0,0,1,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0013,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,Tight around my toes,1,0,0,0,0,0,0,0,A balance of both,Everyday; School / University,0,1,0,0,1,0,At home,completed,1,22.4,8.5,75,Yes
+ALDO_SYN_0014,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,11,Shoes feel too narrow; Shoes often feel too small,0,1,0,0,1,0,0,0,A balance of both,Everyday; Special occasions,0,1,0,1,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0015,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,No fit issues,0,0,0,0,0,0,1,0,A balance of both,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0016,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9,Tight around my toes,1,0,0,0,0,0,0,0,A balance of both,Work; Going out,1,0,1,0,0,0,At home,completed,1,26.6,11.0,75,Yes
+ALDO_SYN_0017,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,8,No fit issues,0,0,0,0,0,0,1,0,Style,Work,1,0,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0018,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Not sure,0,0,0,0,0,0,0,1,Comfort,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,At home,completed,1,24.2,8.7,75,Yes
+ALDO_SYN_0019,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Not sure,0,0,0,0,0,0,0,1,A balance of both,Everyday; School / University,0,1,0,0,1,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0020,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9.5,Tight around my toes; Shoes feel too wide,1,0,1,0,0,0,0,0,A balance of both,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0021,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,Shoes feel too wide; Shoes often feel too small,0,0,1,0,1,0,0,0,Comfort,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,Maybe later,not_started,0,,,50,No
+ALDO_SYN_0022,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Shoes feel too wide,0,0,1,0,0,0,0,0,Style,Everyday; School / University,0,1,0,0,1,0,Maybe later,not_started,0,,,50,No
+ALDO_SYN_0023,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,No fit issues,0,0,0,0,0,0,1,0,A balance of both,Work; Going out,1,0,1,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0024,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Tight around my toes; Shoes often feel too small,1,0,0,0,1,0,0,0,A balance of both,Special occasions,0,0,0,1,0,0,In store,pending,0,,,50,No
+ALDO_SYN_0025,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,No fit issues,0,0,0,0,0,0,1,0,A balance of both,Work,1,0,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0026,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,Not sure,0,0,0,0,0,0,0,1,A balance of both,,0,0,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0027,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,8.5,Tight around my toes; Shoes feel too wide,1,0,1,0,0,0,0,0,Comfort,Work; School / University,1,0,0,0,1,0,At home,completed,1,25.7,9.7,75,No
+ALDO_SYN_0028,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Shoes often feel too small,0,0,0,0,1,0,0,0,A balance of both,Work; Special occasions,1,0,0,1,0,0,At home,completed,1,23.2,8.9,75,Yes
+ALDO_SYN_0029,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Tight around my toes; Shoes often feel too small,1,0,0,0,1,0,0,0,Comfort,Work,1,0,0,0,0,0,At home,pending,0,,,50,No
+ALDO_SYN_0030,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,8.5,No fit issues,0,0,0,0,0,0,1,0,A balance of both,Work,1,0,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0031,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,11,Shoes feel too narrow,0,1,0,0,0,0,0,0,Style,Everyday; Going out,0,1,1,0,0,0,At home,completed,1,25.7,9.4,75,Yes
+ALDO_SYN_0032,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6.5,No fit issues,0,0,0,0,0,0,1,0,Comfort,School / University,0,0,0,0,1,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0033,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6,My heels slip,0,0,0,1,0,0,0,0,Style,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,In store,pending,0,,,50,Yes
+ALDO_SYN_0034,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,My heels slip,0,0,0,1,0,0,0,0,Comfort,Special occasions; School / University,0,0,0,1,1,0,At home,completed,1,23.5,8.1,75,Yes
+ALDO_SYN_0035,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,Tight around my toes,1,0,0,0,0,0,0,0,A balance of both,Work; School / University,1,0,0,0,1,0,At home,completed,1,23.3,8.3,75,Yes
+ALDO_SYN_0036,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,11,My heels slip,0,0,0,1,0,0,0,0,A balance of both,Special occasions; School / University,0,0,0,1,1,0,At home,completed,1,25.8,9.6,75,Yes
+ALDO_SYN_0037,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9.5,Shoes feel too narrow,0,1,0,0,0,0,0,0,Style,Work,1,0,0,0,0,0,At home,completed,1,24.5,9.5,75,Yes
+ALDO_SYN_0038,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,Shoes feel too wide; Shoes often feel too big,0,0,1,0,0,1,0,0,A balance of both,Everyday; School / University,0,1,0,0,1,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0039,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9.5,Tight around my toes,1,0,0,0,0,0,0,0,Comfort,School / University,0,0,0,0,1,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0040,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,Shoes feel too narrow,0,1,0,0,0,0,0,0,Comfort,Everyday; School / University,0,1,0,0,1,0,At home,completed,1,22.9,8.9,75,Yes
+ALDO_SYN_0041,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,7,Shoes feel too narrow,0,1,0,0,0,0,0,0,A balance of both,Everyday,0,1,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0042,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9,Tight around my toes; Shoes feel too narrow,1,1,0,0,0,0,0,0,Comfort,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0043,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Shoes often feel too small,0,0,0,0,1,0,0,0,A balance of both,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,At home,completed,1,23.8,9.4,75,Yes
+ALDO_SYN_0044,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Shoes feel too narrow,0,1,0,0,0,0,0,0,A balance of both,Work; Special occasions,1,0,0,1,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0045,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,Shoes feel too narrow; Shoes often feel too small,0,1,0,0,1,0,0,0,Comfort,Everyday; Going out,0,1,1,0,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0046,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,Tight around my toes,1,0,0,0,0,0,0,0,A balance of both,Everyday; Going out,0,1,1,0,0,0,At home,completed,1,23.0,8.2,75,Yes
+ALDO_SYN_0047,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,Tight around my toes,1,0,0,0,0,0,0,0,Comfort,Everyday; Special occasions,0,1,0,1,0,0,At home,completed,1,24.0,8.6,75,Yes
+ALDO_SYN_0048,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,Tight around my toes,1,0,0,0,0,0,0,0,A balance of both,,0,0,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0049,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Tight around my toes,1,0,0,0,0,0,0,0,Comfort,Everyday; Special occasions,0,1,0,1,0,0,At home,completed,1,23.2,8.5,75,No
+ALDO_SYN_0050,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,Shoes feel too narrow,0,1,0,0,0,0,0,0,Comfort,Going out; Special occasions,0,0,1,1,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0051,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,5.5,No fit issues,0,0,0,0,0,0,1,0,A balance of both,Everyday; Special occasions; School / University,0,1,0,1,1,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0052,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,No fit issues,0,0,0,0,0,0,1,0,Comfort,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,Maybe later,not_started,0,,,50,No
+ALDO_SYN_0053,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,5,Tight around my toes,1,0,0,0,0,0,0,0,A balance of both,Work; Going out; Special occasions,1,0,1,1,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0054,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,No fit issues,0,0,0,0,0,0,1,0,A balance of both,Everyday,0,1,0,0,0,0,At home,completed,1,23.4,8.9,75,Yes
+ALDO_SYN_0055,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6,My heels slip; Shoes often feel too big,0,0,0,1,0,1,0,0,A balance of both,,0,0,0,0,0,0,At home,completed,1,21.7,8.0,75,Yes
+ALDO_SYN_0056,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,No fit issues,0,0,0,0,0,0,1,0,Style,Work,1,0,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0057,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,My heels slip; Shoes often feel too big,0,0,0,1,0,1,0,0,A balance of both,Special occasions,0,0,0,1,0,0,At home,completed,1,23.2,8.2,75,Yes
+ALDO_SYN_0058,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9.5,Shoes feel too narrow,0,1,0,0,0,0,0,0,Comfort,Special occasions,0,0,0,1,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0059,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,No fit issues,0,0,0,0,0,0,1,0,Comfort,Work; Everyday,1,1,0,0,0,0,At home,completed,1,23.8,8.8,75,Yes
+ALDO_SYN_0060,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Shoes feel too narrow,0,1,0,0,0,0,0,0,A balance of both,Work; Everyday,1,1,0,0,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0061,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9,No fit issues,0,0,0,0,0,0,1,0,Comfort,Everyday; Special occasions,0,1,0,1,0,0,At home,completed,1,26.3,10.4,75,Yes
+ALDO_SYN_0062,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,Tight around my toes,1,0,0,0,0,0,0,0,A balance of both,Everyday,0,1,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0063,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,8.5,Shoes often feel too small,0,0,0,0,1,0,0,0,A balance of both,Work; School / University,1,0,0,0,1,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0064,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Not sure,0,0,0,0,0,0,0,1,A balance of both,Everyday,0,1,0,0,0,0,At home,completed,1,23.0,8.4,75,Yes
+ALDO_SYN_0065,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6,My heels slip,0,0,0,1,0,0,0,0,A balance of both,Everyday,0,1,0,0,0,0,At home,completed,1,21.8,8.5,75,Yes
+ALDO_SYN_0066,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,Tight around my toes,1,0,0,0,0,0,0,0,Comfort,Everyday,0,1,0,0,0,0,At home,completed,1,22.5,7.8,75,Yes
+ALDO_SYN_0067,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,No fit issues,0,0,0,0,0,0,1,0,A balance of both,Everyday; Special occasions,0,1,0,1,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0068,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Shoes feel too narrow,0,1,0,0,0,0,0,0,Comfort,Everyday; Going out,0,1,1,0,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0069,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,Shoes feel too narrow,0,1,0,0,0,0,0,0,A balance of both,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,In store,pending,0,,,50,Yes
+ALDO_SYN_0070,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,No fit issues,0,0,0,0,0,0,1,0,Style,Work,1,0,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0071,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Shoes feel too wide; Shoes often feel too small; Shoes often feel too big,0,0,1,0,1,1,0,0,Style,Everyday; School / University,0,1,0,0,1,0,In store,pending,0,,,50,No
+ALDO_SYN_0072,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Shoes feel too wide,0,0,1,0,0,0,0,0,Comfort,Work,1,0,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0073,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6.5,Tight around my toes,1,0,0,0,0,0,0,0,A balance of both,Work; Everyday,1,1,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0074,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,8.5,No fit issues,0,0,0,0,0,0,1,0,Comfort,Everyday,0,1,0,0,0,0,At home,completed,1,26.3,10.3,75,No
+ALDO_SYN_0075,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,Tight around my toes,1,0,0,0,0,0,0,0,A balance of both,Work,1,0,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0076,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,No fit issues,0,0,0,0,0,0,1,0,A balance of both,Everyday; Going out,0,1,1,0,0,0,Maybe later,not_started,0,,,50,No
+ALDO_SYN_0077,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,7.5,Shoes feel too narrow; My heels slip; Shoes often feel too big,0,1,0,1,0,1,0,0,Style,Everyday,0,1,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0078,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9.5,Tight around my toes; Shoes feel too wide,1,0,1,0,0,0,0,0,Style,Everyday,0,1,0,0,0,0,At home,completed,1,24.8,8.7,75,Yes
+ALDO_SYN_0079,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9,Shoes feel too wide,0,0,1,0,0,0,0,0,A balance of both,Everyday,0,1,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0080,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Shoes feel too wide,0,0,1,0,0,0,0,0,A balance of both,Special occasions,0,0,0,1,0,0,At home,completed,1,23.4,8.4,75,Yes
+ALDO_SYN_0081,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,10,Shoes feel too wide; My heels slip; Shoes often feel too big,0,0,1,1,0,1,0,0,A balance of both,,0,0,0,0,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0082,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,My heels slip,0,0,0,1,0,0,0,0,A balance of both,Going out,0,0,1,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0083,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,10,Tight around my toes,1,0,0,0,0,0,0,0,Comfort,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0084,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Shoes feel too wide,0,0,1,0,0,0,0,0,A balance of both,Special occasions; School / University,0,0,0,1,1,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0085,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,No fit issues,0,0,0,0,0,0,1,0,A balance of both,Work,1,0,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0086,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9,Tight around my toes; My heels slip; Shoes often feel too big,1,0,0,1,0,1,0,0,Comfort,Everyday; Special occasions,0,1,0,1,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0087,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9,Tight around my toes; My heels slip,1,0,0,1,0,0,0,0,Comfort,Everyday,0,1,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0088,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,11,Not sure,0,0,0,0,0,0,0,1,A balance of both,Work; Going out,1,0,1,0,0,0,At home,completed,1,26.0,9.3,75,Yes
+ALDO_SYN_0089,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6.5,My heels slip,0,0,0,1,0,0,0,0,A balance of both,Everyday,0,1,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0090,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Shoes feel too narrow,0,1,0,0,0,0,0,0,Comfort,Work,1,0,0,0,0,0,In store,pending,0,,,50,No
+ALDO_SYN_0091,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,Tight around my toes; Shoes often feel too big,1,0,0,0,0,1,0,0,Comfort,Everyday,0,1,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0092,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,My heels slip,0,0,0,1,0,0,0,0,A balance of both,Work; Everyday; School / University,1,1,0,0,1,0,At home,completed,1,23.8,8.7,75,Yes
+ALDO_SYN_0093,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6.5,Not sure,0,0,0,0,0,0,0,1,Comfort,Everyday,0,1,0,0,0,0,At home,completed,1,22.0,8.3,75,Yes
+ALDO_SYN_0094,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,My heels slip,0,0,0,1,0,0,0,0,Style,Everyday; Special occasions,0,1,0,1,0,0,At home,completed,1,22.7,7.6,75,Yes
+ALDO_SYN_0095,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,Not sure,0,0,0,0,0,0,0,1,A balance of both,,0,0,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0096,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,8,My heels slip,0,0,0,1,0,0,0,0,Style,Work; Going out,1,0,1,0,0,0,At home,completed,1,25.5,10.5,75,Yes
+ALDO_SYN_0097,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,8,Tight around my toes; Shoes often feel too small; Shoes often feel too big,1,0,0,0,1,1,0,0,Comfort,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,In store,pending,0,,,50,Yes
+ALDO_SYN_0098,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,Shoes often feel too small,0,0,0,0,1,0,0,0,Comfort,Going out,0,0,1,0,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0099,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,Shoes often feel too small; Shoes often feel too big,0,0,0,0,1,1,0,0,Style,Everyday,0,1,0,0,0,0,At home,completed,1,23.9,8.8,75,Yes
+ALDO_SYN_0100,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,5.5,Shoes often feel too small; Shoes often feel too big,0,0,0,0,1,1,0,0,A balance of both,Going out; Special occasions,0,0,1,1,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0101,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,No fit issues,0,0,0,0,0,0,1,0,Comfort,Special occasions,0,0,0,1,0,0,Maybe later,not_started,0,,,50,No
+ALDO_SYN_0102,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9.5,Not sure,0,0,0,0,0,0,0,1,Style,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,In store,pending,0,,,50,Yes
+ALDO_SYN_0103,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,10.5,Shoes often feel too big,0,0,0,0,0,1,0,0,Comfort,Work; Everyday; Going out; School / University,1,1,1,0,1,0,At home,completed,1,27.6,11.1,75,No
+ALDO_SYN_0104,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9.5,Shoes feel too narrow; My heels slip,0,1,0,1,0,0,0,0,Style,Work; School / University,1,0,0,0,1,0,At home,completed,1,24.1,8.7,75,Yes
+ALDO_SYN_0105,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9.5,Shoes feel too wide; My heels slip; Shoes often feel too big,0,0,1,1,0,1,0,0,A balance of both,Work; School / University,1,0,0,0,1,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0106,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,8,Tight around my toes; Shoes feel too narrow,1,1,0,0,0,0,0,0,A balance of both,Work; Going out,1,0,1,0,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0107,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Shoes feel too narrow,0,1,0,0,0,0,0,0,Style,,0,0,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0108,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,Tight around my toes,1,0,0,0,0,0,0,0,A balance of both,Special occasions; School / University,0,0,0,1,1,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0109,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9.5,Tight around my toes,1,0,0,0,0,0,0,0,A balance of both,Work,1,0,0,0,0,0,At home,completed,1,24.4,8.8,75,Yes
+ALDO_SYN_0110,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Tight around my toes,1,0,0,0,0,0,0,0,A balance of both,Everyday; Going out; School / University,0,1,1,0,1,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0111,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,7,Shoes often feel too small,0,0,0,0,1,0,0,0,A balance of both,Special occasions,0,0,0,1,0,0,At home,completed,1,24.8,9.7,75,Yes
+ALDO_SYN_0112,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Tight around my toes; Shoes often feel too small,1,0,0,0,1,0,0,0,A balance of both,Work,1,0,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0113,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,7,Tight around my toes; Shoes often feel too big,1,0,0,0,0,1,0,0,A balance of both,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0114,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9.5,Tight around my toes; Shoes often feel too big,1,0,0,0,0,1,0,0,Comfort,,0,0,0,0,0,0,At home,completed,1,25.0,9.5,75,Yes
+ALDO_SYN_0115,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,Shoes often feel too small,0,0,0,0,1,0,0,0,Comfort,,0,0,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0116,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,8,Shoes often feel too big,0,0,0,0,0,1,0,0,A balance of both,,0,0,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0117,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,No fit issues,0,0,0,0,0,0,1,0,A balance of both,Everyday,0,1,0,0,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0118,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,10,Shoes feel too narrow,0,1,0,0,0,0,0,0,Comfort,,0,0,0,0,0,0,At home,completed,1,27.5,11.5,75,Yes
+ALDO_SYN_0119,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,My heels slip,0,0,0,1,0,0,0,0,Style,Special occasions,0,0,0,1,0,0,At home,completed,1,24.1,9.5,75,Yes
+ALDO_SYN_0120,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6.5,Tight around my toes,1,0,0,0,0,0,0,0,Comfort,Work,1,0,0,0,0,0,At home,completed,1,22.6,8.9,75,Yes
+ALDO_SYN_0121,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,Tight around my toes,1,0,0,0,0,0,0,0,A balance of both,,0,0,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0122,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,My heels slip; Shoes often feel too small,0,0,0,1,1,0,0,0,Style,Work,1,0,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0123,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,Not sure,0,0,0,0,0,0,0,1,Style,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0124,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,5,Tight around my toes; Shoes feel too wide,1,0,1,0,0,0,0,0,Style,Going out,0,0,1,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0125,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,Tight around my toes,1,0,0,0,0,0,0,0,A balance of both,School / University,0,0,0,0,1,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0126,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,Tight around my toes,1,0,0,0,0,0,0,0,Comfort,Everyday,0,1,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0127,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,12,Shoes feel too wide,0,0,1,0,0,0,0,0,A balance of both,Everyday; Going out,0,1,1,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0128,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9.5,Tight around my toes,1,0,0,0,0,0,0,0,Style,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,At home,pending,0,,,50,Yes
+ALDO_SYN_0129,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9,No fit issues,0,0,0,0,0,0,1,0,Comfort,School / University,0,0,0,0,1,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0130,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Shoes often feel too big,0,0,0,0,0,1,0,0,Comfort,Everyday,0,1,0,0,0,0,At home,completed,1,23.8,8.9,75,Yes
+ALDO_SYN_0131,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,10,No fit issues,0,0,0,0,0,0,1,0,A balance of both,Work; Everyday; School / University,1,1,0,0,1,0,At home,completed,1,24.8,10.3,75,Yes
+ALDO_SYN_0132,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,Tight around my toes,1,0,0,0,0,0,0,0,A balance of both,Special occasions,0,0,0,1,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0133,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,10,My heels slip; Shoes often feel too big,0,0,0,1,0,1,0,0,Comfort,,0,0,0,0,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0134,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Tight around my toes; Shoes feel too narrow; My heels slip,1,1,0,1,0,0,0,0,Comfort,Everyday,0,1,0,0,0,0,At home,completed,1,24.3,9.2,75,Yes
+ALDO_SYN_0135,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,Shoes often feel too big,0,0,0,0,0,1,0,0,A balance of both,Work; Everyday; Special occasions,1,1,0,1,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0136,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,Tight around my toes,1,0,0,0,0,0,0,0,Style,Work; Going out; School / University,1,0,1,0,1,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0137,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,No fit issues,0,0,0,0,0,0,1,0,Comfort,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,At home,completed,1,23.0,8.6,75,No
+ALDO_SYN_0138,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,8.5,Not sure,0,0,0,0,0,0,0,1,Style,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,At home,completed,1,25.7,10.7,75,Yes
+ALDO_SYN_0139,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,Shoes often feel too big,0,0,0,0,0,1,0,0,Style,Everyday; Special occasions; School / University,0,1,0,1,1,0,In store,pending,0,,,50,No
+ALDO_SYN_0140,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,Shoes feel too wide,0,0,1,0,0,0,0,0,Comfort,Everyday; Going out; Special occasions,0,1,1,1,0,0,In store,pending,0,,,50,No
+ALDO_SYN_0141,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6.5,Shoes often feel too big,0,0,0,0,0,1,0,0,Style,School / University,0,0,0,0,1,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0142,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,Shoes often feel too small,0,0,0,0,1,0,0,0,Style,Work,1,0,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0143,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,My heels slip,0,0,0,1,0,0,0,0,A balance of both,,0,0,0,0,0,0,Maybe later,not_started,0,,,50,No
+ALDO_SYN_0144,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,Tight around my toes,1,0,0,0,0,0,0,0,A balance of both,Special occasions,0,0,0,1,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0145,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,11,Tight around my toes,1,0,0,0,0,0,0,0,Comfort,Going out; School / University,0,0,1,0,1,0,At home,completed,1,25.5,9.8,75,Yes
+ALDO_SYN_0146,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,10,No fit issues,0,0,0,0,0,0,1,0,Comfort,School / University,0,0,0,0,1,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0147,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6,Shoes often feel too big,0,0,0,0,0,1,0,0,Style,,0,0,0,0,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0148,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,Not sure,0,0,0,0,0,0,0,1,A balance of both,Everyday; Going out,0,1,1,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0149,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Shoes feel too narrow,0,1,0,0,0,0,0,0,A balance of both,Everyday,0,1,0,0,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0150,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Tight around my toes; Shoes often feel too small; Shoes often feel too big,1,0,0,0,1,1,0,0,Comfort,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,At home,pending,0,,,50,Yes
+ALDO_SYN_0151,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9.5,Shoes often feel too small,0,0,0,0,1,0,0,0,A balance of both,Everyday,0,1,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0152,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,10,Tight around my toes,1,0,0,0,0,0,0,0,Comfort,School / University,0,0,0,0,1,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0153,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Tight around my toes,1,0,0,0,0,0,0,0,Comfort,,0,0,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0154,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Tight around my toes,1,0,0,0,0,0,0,0,A balance of both,Work,1,0,0,0,0,0,At home,completed,1,23.6,9.3,75,Yes
+ALDO_SYN_0155,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,My heels slip,0,0,0,1,0,0,0,0,A balance of both,Everyday,0,1,0,0,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0156,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,No fit issues,0,0,0,0,0,0,1,0,A balance of both,Everyday,0,1,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0157,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,No fit issues,0,0,0,0,0,0,1,0,A balance of both,Special occasions; School / University,0,0,0,1,1,0,At home,pending,0,,,50,No
+ALDO_SYN_0158,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,No fit issues,0,0,0,0,0,0,1,0,Comfort,Everyday; Going out,0,1,1,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0159,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,Tight around my toes,1,0,0,0,0,0,0,0,Style,Work,1,0,0,0,0,0,At home,completed,1,22.7,8.4,75,No
+ALDO_SYN_0160,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,8,Shoes feel too wide,0,0,1,0,0,0,0,0,Comfort,Everyday,0,1,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0161,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9,Shoes feel too narrow,0,1,0,0,0,0,0,0,Comfort,,0,0,0,0,0,0,At home,completed,1,26.1,10.7,75,Yes
+ALDO_SYN_0162,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Tight around my toes; Shoes often feel too big,1,0,0,0,0,1,0,0,Comfort,Going out; School / University,0,0,1,0,1,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0163,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Shoes often feel too small,0,0,0,0,1,0,0,0,Style,,0,0,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0164,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,Tight around my toes; Shoes feel too narrow; Shoes often feel too big,1,1,0,0,0,1,0,0,Comfort,,0,0,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0165,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,10.5,Tight around my toes; Shoes feel too narrow,1,1,0,0,0,0,0,0,Comfort,Work; Going out,1,0,1,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0166,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Shoes feel too wide,0,0,1,0,0,0,0,0,Comfort,Everyday; Going out,0,1,1,0,0,0,At home,completed,1,23.1,8.9,75,Yes
+ALDO_SYN_0167,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Tight around my toes; My heels slip,1,0,0,1,0,0,0,0,A balance of both,Going out,0,0,1,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0168,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Shoes feel too wide; My heels slip; Shoes often feel too small,0,0,1,1,1,0,0,0,Comfort,Going out; Special occasions,0,0,1,1,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0169,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,10,My heels slip; Shoes often feel too small,0,0,0,1,1,0,0,0,Comfort,Special occasions,0,0,0,1,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0170,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,Tight around my toes,1,0,0,0,0,0,0,0,Comfort,Work,1,0,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0171,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6.5,Tight around my toes,1,0,0,0,0,0,0,0,A balance of both,Work,1,0,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0172,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,Tight around my toes; Shoes feel too narrow,1,1,0,0,0,0,0,0,Comfort,Special occasions,0,0,0,1,0,0,Maybe later,not_started,0,,,50,No
+ALDO_SYN_0173,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,No fit issues,0,0,0,0,0,0,1,0,Comfort,Work,1,0,0,0,0,0,At home,completed,1,23.0,9.9,75,Yes
+ALDO_SYN_0174,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Shoes often feel too big,0,0,0,0,0,1,0,0,Style,,0,0,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0175,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Tight around my toes,1,0,0,0,0,0,0,0,Comfort,Work,1,0,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0176,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,10,Shoes often feel too big,0,0,0,0,0,1,0,0,Style,,0,0,0,0,0,0,At home,completed,1,27.0,10.9,75,Yes
+ALDO_SYN_0177,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,8.5,Tight around my toes; Shoes feel too narrow,1,1,0,0,0,0,0,0,A balance of both,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,At home,pending,0,,,50,Yes
+ALDO_SYN_0178,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9,My heels slip,0,0,0,1,0,0,0,0,A balance of both,Work,1,0,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0179,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9.5,No fit issues,0,0,0,0,0,0,1,0,A balance of both,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,In store,pending,0,,,50,Yes
+ALDO_SYN_0180,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,5.5,My heels slip,0,0,0,1,0,0,0,0,A balance of both,Going out; School / University,0,0,1,0,1,0,At home,completed,1,21.1,7.8,75,Yes
+ALDO_SYN_0181,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,No fit issues,0,0,0,0,0,0,1,0,Comfort,Work; Everyday,1,1,0,0,0,0,At home,completed,1,22.4,8.3,75,Yes
+ALDO_SYN_0182,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9.5,Tight around my toes; Shoes feel too narrow; Shoes often feel too small,1,1,0,0,1,0,0,0,Style,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0183,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9,Shoes feel too narrow; Shoes often feel too small,0,1,0,0,1,0,0,0,Style,Everyday,0,1,0,0,0,0,At home,completed,1,26.4,10.8,75,No
+ALDO_SYN_0184,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9.5,No fit issues,0,0,0,0,0,0,1,0,A balance of both,Work,1,0,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0185,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,Shoes often feel too small,0,0,0,0,1,0,0,0,A balance of both,Work; School / University,1,0,0,0,1,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0186,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,No fit issues,0,0,0,0,0,0,1,0,Comfort,Everyday; Going out; School / University,0,1,1,0,1,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0187,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Not sure,0,0,0,0,0,0,0,1,Comfort,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,At home,completed,1,23.0,9.2,75,Yes
+ALDO_SYN_0188,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,No fit issues,0,0,0,0,0,0,1,0,A balance of both,Everyday; School / University,0,1,0,0,1,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0189,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Tight around my toes; Shoes feel too narrow; My heels slip; Shoes often feel too big,1,1,0,1,0,1,0,0,Style,Work,1,0,0,0,0,0,At home,completed,1,22.6,8.8,75,No
+ALDO_SYN_0190,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Shoes often feel too small,0,0,0,0,1,0,0,0,Comfort,Work,1,0,0,0,0,0,In store,pending,0,,,50,No
+ALDO_SYN_0191,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,10.5,Tight around my toes,1,0,0,0,0,0,0,0,Comfort,Work; Everyday,1,1,0,0,0,0,In store,pending,0,,,50,No
+ALDO_SYN_0192,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,8,Shoes feel too narrow,0,1,0,0,0,0,0,0,A balance of both,,0,0,0,0,0,0,At home,completed,1,25.5,10.0,75,Yes
+ALDO_SYN_0193,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,No fit issues,0,0,0,0,0,0,1,0,A balance of both,Everyday; Special occasions,0,1,0,1,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0194,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,10,Tight around my toes; My heels slip; Shoes often feel too small,1,0,0,1,1,0,0,0,A balance of both,Going out,0,0,1,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0195,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,10,No fit issues,0,0,0,0,0,0,1,0,A balance of both,,0,0,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0196,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,Shoes feel too wide; Shoes often feel too small,0,0,1,0,1,0,0,0,Comfort,Everyday,0,1,0,0,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0197,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,11,Tight around my toes; Shoes feel too wide; My heels slip,1,0,1,1,0,0,0,0,Comfort,Special occasions,0,0,0,1,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0198,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9.5,Shoes feel too narrow; My heels slip,0,1,0,1,0,0,0,0,Comfort,Work; Everyday,1,1,0,0,0,0,At home,completed,1,26.7,10.7,75,No
+ALDO_SYN_0199,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,10,Shoes feel too narrow,0,1,0,0,0,0,0,0,Style,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,At home,completed,1,24.3,8.9,75,Yes
+ALDO_SYN_0200,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,Shoes feel too narrow,0,1,0,0,0,0,0,0,A balance of both,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,In store,pending,0,,,50,Yes
+ALDO_SYN_0201,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9.5,My heels slip,0,0,0,1,0,0,0,0,A balance of both,Everyday,0,1,0,0,0,0,At home,completed,1,24.0,9.0,75,No
+ALDO_SYN_0202,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,8.5,Tight around my toes,1,0,0,0,0,0,0,0,A balance of both,,0,0,0,0,0,0,At home,completed,1,25.4,10.5,75,No
+ALDO_SYN_0203,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,No fit issues,0,0,0,0,0,0,1,0,Comfort,,0,0,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0204,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Shoes feel too wide; Shoes often feel too big,0,0,1,0,0,1,0,0,A balance of both,Special occasions; School / University,0,0,0,1,1,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0205,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,No fit issues,0,0,0,0,0,0,1,0,A balance of both,Special occasions,0,0,0,1,0,0,At home,completed,1,22.5,8.7,75,No
+ALDO_SYN_0206,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,Tight around my toes,1,0,0,0,0,0,0,0,A balance of both,Everyday,0,1,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0207,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Shoes often feel too big,0,0,0,0,0,1,0,0,Style,,0,0,0,0,0,0,At home,completed,1,23.0,8.4,75,Yes
+ALDO_SYN_0208,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,My heels slip; Shoes often feel too small; Shoes often feel too big,0,0,0,1,1,1,0,0,A balance of both,,0,0,0,0,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0209,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Shoes feel too narrow; Shoes often feel too small; Shoes often feel too big,0,1,0,0,1,1,0,0,A balance of both,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0210,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6.5,My heels slip,0,0,0,1,0,0,0,0,Comfort,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,Maybe later,not_started,0,,,50,No
+ALDO_SYN_0211,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,8.5,No fit issues,0,0,0,0,0,0,1,0,A balance of both,Everyday; Special occasions; School / University,0,1,0,1,1,0,Maybe later,not_started,0,,,50,No
+ALDO_SYN_0212,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Shoes feel too narrow,0,1,0,0,0,0,0,0,Style,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0213,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6,No fit issues,0,0,0,0,0,0,1,0,A balance of both,Going out; Special occasions,0,0,1,1,0,0,Maybe later,not_started,0,,,50,No
+ALDO_SYN_0214,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,Shoes often feel too small,0,0,0,0,1,0,0,0,Comfort,Work; School / University,1,0,0,0,1,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0215,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,8.5,No fit issues,0,0,0,0,0,0,1,0,Style,Going out,0,0,1,0,0,0,At home,completed,1,25.9,9.6,75,Yes
+ALDO_SYN_0216,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9.5,My heels slip,0,0,0,1,0,0,0,0,A balance of both,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0217,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Tight around my toes,1,0,0,0,0,0,0,0,A balance of both,,0,0,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0218,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Shoes often feel too small,0,0,0,0,1,0,0,0,A balance of both,Work; Everyday,1,1,0,0,0,0,In store,pending,0,,,50,No
+ALDO_SYN_0219,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9,Tight around my toes,1,0,0,0,0,0,0,0,A balance of both,,0,0,0,0,0,0,At home,completed,1,26.3,10.1,75,Yes
+ALDO_SYN_0220,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,Not sure,0,0,0,0,0,0,0,1,Comfort,Special occasions,0,0,0,1,0,0,At home,completed,1,22.1,8.0,75,No
+ALDO_SYN_0221,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Shoes often feel too small,0,0,0,0,1,0,0,0,Comfort,Going out,0,0,1,0,0,0,At home,pending,0,,,50,No
+ALDO_SYN_0222,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Shoes feel too narrow,0,1,0,0,0,0,0,0,Comfort,Going out,0,0,1,0,0,0,At home,completed,1,23.7,9.9,75,Yes
+ALDO_SYN_0223,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,Tight around my toes; My heels slip,1,0,0,1,0,0,0,0,Style,Work; Going out,1,0,1,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0224,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,8.5,Shoes often feel too small,0,0,0,0,1,0,0,0,Style,,0,0,0,0,0,0,At home,completed,1,25.6,10.1,75,Yes
+ALDO_SYN_0225,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9,My heels slip,0,0,0,1,0,0,0,0,Style,Work,1,0,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0226,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Not sure,0,0,0,0,0,0,0,1,Comfort,Work; Everyday; Going out,1,1,1,0,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0227,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,No fit issues,0,0,0,0,0,0,1,0,Comfort,Work; Special occasions,1,0,0,1,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0228,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,7.5,Tight around my toes,1,0,0,0,0,0,0,0,Comfort,,0,0,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0229,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,No fit issues,0,0,0,0,0,0,1,0,A balance of both,Going out,0,0,1,0,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0230,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6,My heels slip,0,0,0,1,0,0,0,0,Comfort,Work; Everyday; Going out,1,1,1,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0231,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Tight around my toes; Shoes feel too narrow; Shoes often feel too small; Shoes often feel too big,1,1,0,0,1,1,0,0,A balance of both,School / University,0,0,0,0,1,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0232,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,10,Tight around my toes,1,0,0,0,0,0,0,0,Style,Work,1,0,0,0,0,0,Maybe later,not_started,0,,,50,No
+ALDO_SYN_0233,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6,Not sure,0,0,0,0,0,0,0,1,A balance of both,Going out,0,0,1,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0234,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,8.5,My heels slip,0,0,0,1,0,0,0,0,Style,Going out,0,0,1,0,0,0,Maybe later,not_started,0,,,50,No
+ALDO_SYN_0235,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Tight around my toes; Shoes feel too narrow; Shoes often feel too small,1,1,0,0,1,0,0,0,Comfort,Work,1,0,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0236,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,Shoes often feel too small,0,0,0,0,1,0,0,0,Comfort,Special occasions,0,0,0,1,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0237,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9.5,My heels slip,0,0,0,1,0,0,0,0,A balance of both,Going out; School / University,0,0,1,0,1,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0238,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,8,Shoes feel too wide,0,0,1,0,0,0,0,0,A balance of both,Work; School / University,1,0,0,0,1,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0239,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,Tight around my toes; Shoes often feel too big,1,0,0,0,0,1,0,0,Style,Everyday,0,1,0,0,0,0,At home,completed,1,23.5,9.4,75,Yes
+ALDO_SYN_0240,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,No fit issues,0,0,0,0,0,0,1,0,A balance of both,Everyday,0,1,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0241,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9,Shoes feel too narrow,0,1,0,0,0,0,0,0,A balance of both,Work; Everyday,1,1,0,0,0,0,At home,completed,1,27.2,11.3,75,Yes
+ALDO_SYN_0242,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,8,Shoes feel too narrow,0,1,0,0,0,0,0,0,A balance of both,Work,1,0,0,0,0,0,Maybe later,not_started,0,,,50,No
+ALDO_SYN_0243,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,Tight around my toes; Shoes feel too narrow; My heels slip,1,1,0,1,0,0,0,0,A balance of both,Going out; School / University,0,0,1,0,1,0,Maybe later,not_started,0,,,50,No
+ALDO_SYN_0244,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Shoes feel too wide,0,0,1,0,0,0,0,0,A balance of both,School / University,0,0,0,0,1,0,At home,completed,1,23.5,8.8,75,Yes
+ALDO_SYN_0245,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,Tight around my toes; Shoes often feel too big,1,0,0,0,0,1,0,0,A balance of both,Special occasions,0,0,0,1,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0246,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9,No fit issues,0,0,0,0,0,0,1,0,A balance of both,Special occasions,0,0,0,1,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0247,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,12,Shoes feel too wide,0,0,1,0,0,0,0,0,A balance of both,Everyday,0,1,0,0,0,0,At home,completed,1,28.7,11.3,75,Yes
+ALDO_SYN_0248,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Shoes often feel too big,0,0,0,0,0,1,0,0,Style,Everyday; Special occasions,0,1,0,1,0,0,In store,pending,0,,,50,No
+ALDO_SYN_0249,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Not sure,0,0,0,0,0,0,0,1,Style,,0,0,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0250,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,10.5,No fit issues,0,0,0,0,0,0,1,0,Style,Going out,0,0,1,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0251,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9,Tight around my toes; Shoes often feel too big,1,0,0,0,0,1,0,0,Style,Work; Everyday,1,1,0,0,0,0,At home,completed,1,26.1,9.7,75,No
+ALDO_SYN_0252,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,10.5,My heels slip,0,0,0,1,0,0,0,0,Comfort,Everyday; Going out; School / University,0,1,1,0,1,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0253,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Tight around my toes,1,0,0,0,0,0,0,0,Style,Everyday,0,1,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0254,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,10,Shoes feel too wide; Shoes often feel too big,0,0,1,0,0,1,0,0,A balance of both,Special occasions,0,0,0,1,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0255,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,10.5,Shoes feel too narrow,0,1,0,0,0,0,0,0,Style,School / University,0,0,0,0,1,0,In store,pending,0,,,50,No
+ALDO_SYN_0256,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9.5,No fit issues,0,0,0,0,0,0,1,0,Comfort,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,In store,pending,0,,,50,No
+ALDO_SYN_0257,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6.5,Tight around my toes,1,0,0,0,0,0,0,0,Style,Everyday,0,1,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0258,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,7,My heels slip,0,0,0,1,0,0,0,0,Comfort,,0,0,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0259,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,11,Shoes often feel too big,0,0,0,0,0,1,0,0,A balance of both,Going out; Special occasions,0,0,1,1,0,0,At home,completed,1,28.3,10.6,75,Yes
+ALDO_SYN_0260,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,7,Tight around my toes; Shoes feel too narrow; Shoes often feel too small,1,1,0,0,1,0,0,0,Comfort,Everyday,0,1,0,0,0,0,At home,completed,1,24.2,9.8,75,No
+ALDO_SYN_0261,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,8,Shoes often feel too big,0,0,0,0,0,1,0,0,Comfort,Special occasions,0,0,0,1,0,0,At home,completed,1,25.6,9.1,75,Yes
+ALDO_SYN_0262,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,11,Shoes feel too narrow,0,1,0,0,0,0,0,0,A balance of both,Work; Everyday,1,1,0,0,0,0,At home,completed,1,28.3,12.2,75,Yes
+ALDO_SYN_0263,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,My heels slip,0,0,0,1,0,0,0,0,A balance of both,Everyday,0,1,0,0,0,0,At home,completed,1,22.2,8.0,75,No
+ALDO_SYN_0264,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,5.5,Shoes feel too narrow,0,1,0,0,0,0,0,0,A balance of both,Work; Everyday,1,1,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0265,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9.5,Tight around my toes; My heels slip,1,0,0,1,0,0,0,0,Comfort,Everyday,0,1,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0266,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Tight around my toes,1,0,0,0,0,0,0,0,A balance of both,Everyday,0,1,0,0,0,0,At home,completed,1,23.8,8.8,75,No
+ALDO_SYN_0267,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,Shoes often feel too small,0,0,0,0,1,0,0,0,Comfort,,0,0,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0268,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,Tight around my toes,1,0,0,0,0,0,0,0,A balance of both,Going out,0,0,1,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0269,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,8.5,Shoes often feel too big,0,0,0,0,0,1,0,0,Style,Everyday,0,1,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0270,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,8,Tight around my toes; Shoes feel too wide,1,0,1,0,0,0,0,0,Style,Everyday,0,1,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0271,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,Tight around my toes,1,0,0,0,0,0,0,0,Comfort,Everyday,0,1,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0272,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Shoes often feel too big,0,0,0,0,0,1,0,0,A balance of both,Work; Going out,1,0,1,0,0,0,At home,completed,1,23.0,8.8,75,Yes
+ALDO_SYN_0273,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Tight around my toes,1,0,0,0,0,0,0,0,A balance of both,Going out,0,0,1,0,0,0,In store,pending,0,,,50,No
+ALDO_SYN_0274,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Shoes often feel too small,0,0,0,0,1,0,0,0,A balance of both,Special occasions; School / University,0,0,0,1,1,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0275,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6,My heels slip,0,0,0,1,0,0,0,0,Style,Going out; Special occasions,0,0,1,1,0,0,In store,pending,0,,,50,No
+ALDO_SYN_0276,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9,Shoes often feel too small,0,0,0,0,1,0,0,0,Style,Special occasions,0,0,0,1,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0277,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,Shoes often feel too big,0,0,0,0,0,1,0,0,A balance of both,Everyday,0,1,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0278,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,8,Shoes feel too wide; My heels slip,0,0,1,1,0,0,0,0,A balance of both,,0,0,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0279,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6.5,Shoes often feel too big,0,0,0,0,0,1,0,0,Style,,0,0,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0280,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6.5,Not sure,0,0,0,0,0,0,0,1,Comfort,School / University,0,0,0,0,1,0,At home,completed,1,22.5,7.8,75,No
+ALDO_SYN_0281,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,5.5,No fit issues,0,0,0,0,0,0,1,0,Comfort,Everyday,0,1,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0282,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,My heels slip,0,0,0,1,0,0,0,0,Comfort,,0,0,0,0,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0283,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,No fit issues,0,0,0,0,0,0,1,0,Style,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,At home,completed,1,23.3,9.2,75,Yes
+ALDO_SYN_0284,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,Tight around my toes; Shoes feel too wide; My heels slip; Shoes often feel too small,1,0,1,1,1,0,0,0,A balance of both,Everyday; Going out,0,1,1,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0285,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,10,Tight around my toes; Shoes feel too wide,1,0,1,0,0,0,0,0,A balance of both,Work,1,0,0,0,0,0,At home,completed,1,24.6,9.7,75,Yes
+ALDO_SYN_0286,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,Shoes feel too narrow,0,1,0,0,0,0,0,0,Comfort,Everyday,0,1,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0287,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Tight around my toes,1,0,0,0,0,0,0,0,Comfort,Everyday,0,1,0,0,0,0,At home,completed,1,23.3,8.4,75,Yes
+ALDO_SYN_0288,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Shoes feel too wide,0,0,1,0,0,0,0,0,Comfort,Everyday; School / University,0,1,0,0,1,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0289,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,7,Shoes often feel too small,0,0,0,0,1,0,0,0,A balance of both,Everyday; Going out,0,1,1,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0290,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,Shoes feel too narrow,0,1,0,0,0,0,0,0,A balance of both,,0,0,0,0,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0291,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,Shoes often feel too small,0,0,0,0,1,0,0,0,Comfort,Special occasions; School / University,0,0,0,1,1,0,At home,completed,1,23.1,8.4,75,No
+ALDO_SYN_0292,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,Shoes often feel too big,0,0,0,0,0,1,0,0,Comfort,Work; Everyday; Special occasions,1,1,0,1,0,0,At home,completed,1,23.1,8.1,75,No
+ALDO_SYN_0293,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,Shoes feel too narrow,0,1,0,0,0,0,0,0,Comfort,Work; Going out,1,0,1,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0294,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Tight around my toes,1,0,0,0,0,0,0,0,A balance of both,Everyday,0,1,0,0,0,0,At home,completed,1,23.9,9.1,75,Yes
+ALDO_SYN_0295,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,11,Shoes feel too wide,0,0,1,0,0,0,0,0,Comfort,Everyday,0,1,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0296,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6,Tight around my toes; Shoes feel too wide,1,0,1,0,0,0,0,0,Comfort,Everyday,0,1,0,0,0,0,Maybe later,not_started,0,,,50,No
+ALDO_SYN_0297,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,11,Not sure,0,0,0,0,0,0,0,1,A balance of both,Work; Special occasions,1,0,0,1,0,0,At home,completed,1,25.9,9.1,75,Yes
+ALDO_SYN_0298,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,8.5,Tight around my toes,1,0,0,0,0,0,0,0,A balance of both,Special occasions,0,0,0,1,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0299,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Shoes feel too narrow; Shoes often feel too big,0,1,0,0,0,1,0,0,A balance of both,Everyday,0,1,0,0,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0300,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,Shoes feel too narrow,0,1,0,0,0,0,0,0,A balance of both,,0,0,0,0,0,0,At home,completed,1,22.5,7.9,75,Yes
+ALDO_SYN_0301,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Shoes feel too wide,0,0,1,0,0,0,0,0,Style,,0,0,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0302,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Shoes feel too narrow,0,1,0,0,0,0,0,0,A balance of both,Work; Special occasions,1,0,0,1,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0303,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,10,No fit issues,0,0,0,0,0,0,1,0,Comfort,Work; Special occasions,1,0,0,1,0,0,At home,completed,1,24.3,8.9,75,Yes
+ALDO_SYN_0304,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6.5,Shoes feel too narrow; Shoes often feel too small,0,1,0,0,1,0,0,0,Style,School / University,0,0,0,0,1,0,At home,completed,1,21.7,8.4,75,Yes
+ALDO_SYN_0305,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,Shoes often feel too small; Shoes often feel too big,0,0,0,0,1,1,0,0,A balance of both,School / University,0,0,0,0,1,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0306,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,7,Shoes feel too narrow; My heels slip,0,1,0,1,0,0,0,0,Style,Everyday,0,1,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0307,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,10,Shoes often feel too small,0,0,0,0,1,0,0,0,Comfort,Work; Everyday; Going out,1,1,1,0,0,0,At home,completed,1,27.1,10.4,75,Yes
+ALDO_SYN_0308,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,No fit issues,0,0,0,0,0,0,1,0,Style,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,At home,pending,0,,,50,Yes
+ALDO_SYN_0309,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Shoes often feel too small,0,0,0,0,1,0,0,0,A balance of both,Everyday; Going out,0,1,1,0,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0310,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,10,Tight around my toes; Shoes often feel too small,1,0,0,0,1,0,0,0,A balance of both,Special occasions,0,0,0,1,0,0,At home,completed,1,25.0,8.9,75,Yes
+ALDO_SYN_0311,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Tight around my toes; Shoes feel too wide; My heels slip,1,0,1,1,0,0,0,0,A balance of both,Going out,0,0,1,0,0,0,At home,completed,1,23.5,8.6,75,Yes
+ALDO_SYN_0312,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6,Shoes often feel too big,0,0,0,0,0,1,0,0,A balance of both,,0,0,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0313,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,10,My heels slip; Shoes often feel too small,0,0,0,1,1,0,0,0,Comfort,Everyday; Special occasions,0,1,0,1,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0314,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Tight around my toes,1,0,0,0,0,0,0,0,Comfort,Going out,0,0,1,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0315,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,Shoes feel too narrow,0,1,0,0,0,0,0,0,Style,Everyday,0,1,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0316,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,No fit issues,0,0,0,0,0,0,1,0,Style,School / University,0,0,0,0,1,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0317,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,No fit issues,0,0,0,0,0,0,1,0,Comfort,Work,1,0,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0318,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,Shoes often feel too small,0,0,0,0,1,0,0,0,Style,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,At home,pending,0,,,50,Yes
+ALDO_SYN_0319,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,Shoes often feel too small,0,0,0,0,1,0,0,0,Style,Everyday; Special occasions,0,1,0,1,0,0,At home,completed,1,23.3,9.6,75,Yes
+ALDO_SYN_0320,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,10,No fit issues,0,0,0,0,0,0,1,0,A balance of both,Everyday; School / University,0,1,0,0,1,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0321,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6.5,Tight around my toes,1,0,0,0,0,0,0,0,Comfort,,0,0,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0322,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,No fit issues,0,0,0,0,0,0,1,0,Style,Work,1,0,0,0,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0323,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,8.5,My heels slip; Shoes often feel too small; Shoes often feel too big,0,0,0,1,1,1,0,0,A balance of both,Work; Everyday; Going out,1,1,1,0,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0324,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Tight around my toes; Shoes feel too wide,1,0,1,0,0,0,0,0,Style,Work; Going out,1,0,1,0,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0325,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9.5,No fit issues,0,0,0,0,0,0,1,0,Comfort,Going out; Special occasions,0,0,1,1,0,0,At home,completed,1,23.9,9.1,75,No
+ALDO_SYN_0326,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,10.5,Tight around my toes,1,0,0,0,0,0,0,0,A balance of both,Everyday; Going out,0,1,1,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0327,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,Not sure,0,0,0,0,0,0,0,1,Comfort,Going out,0,0,1,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0328,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,5.5,Shoes feel too wide,0,0,1,0,0,0,0,0,A balance of both,Everyday,0,1,0,0,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0329,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6,Tight around my toes; My heels slip,1,0,0,1,0,0,0,0,A balance of both,Everyday,0,1,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0330,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,No fit issues,0,0,0,0,0,0,1,0,Comfort,Everyday; Going out; Special occasions; School / University,0,1,1,1,1,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0331,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,Shoes feel too narrow,0,1,0,0,0,0,0,0,Comfort,Work; Everyday; Going out,1,1,1,0,0,0,At home,completed,1,22.1,8.9,75,Yes
+ALDO_SYN_0332,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Shoes feel too wide,0,0,1,0,0,0,0,0,A balance of both,Everyday; Going out,0,1,1,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0333,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9.5,Tight around my toes,1,0,0,0,0,0,0,0,A balance of both,Special occasions,0,0,0,1,0,0,Maybe later,not_started,0,,,50,No
+ALDO_SYN_0334,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,Shoes often feel too small,0,0,0,0,1,0,0,0,Style,Work; Going out,1,0,1,0,0,0,At home,completed,1,22.8,8.1,75,Yes
+ALDO_SYN_0335,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,11,Shoes often feel too big,0,0,0,0,0,1,0,0,A balance of both,Work; Special occasions,1,0,0,1,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0336,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,Not sure,0,0,0,0,0,0,0,1,Style,Going out; Special occasions,0,0,1,1,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0337,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9.5,My heels slip,0,0,0,1,0,0,0,0,Comfort,Going out; Special occasions,0,0,1,1,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0338,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,Tight around my toes; My heels slip,1,0,0,1,0,0,0,0,A balance of both,Work,1,0,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0339,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,Shoes feel too narrow,0,1,0,0,0,0,0,0,Comfort,Everyday,0,1,0,0,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0340,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,Tight around my toes,1,0,0,0,0,0,0,0,Comfort,Going out,0,0,1,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0341,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,8.5,Tight around my toes; Shoes feel too narrow,1,1,0,0,0,0,0,0,A balance of both,Work; Everyday,1,1,0,0,0,0,Maybe later,not_started,0,,,50,No
+ALDO_SYN_0342,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Shoes feel too narrow,0,1,0,0,0,0,0,0,Comfort,Everyday,0,1,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0343,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,Tight around my toes; My heels slip,1,0,0,1,0,0,0,0,A balance of both,Going out; School / University,0,0,1,0,1,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0344,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,10,Shoes often feel too small,0,0,0,0,1,0,0,0,Comfort,Everyday,0,1,0,0,0,0,Maybe later,not_started,0,,,50,No
+ALDO_SYN_0345,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,11,Not sure,0,0,0,0,0,0,0,1,A balance of both,Everyday,0,1,0,0,0,0,At home,completed,1,25.3,9.0,75,Yes
+ALDO_SYN_0346,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,Tight around my toes,1,0,0,0,0,0,0,0,Comfort,Going out,0,0,1,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0347,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,10,Shoes often feel too big,0,0,0,0,0,1,0,0,A balance of both,Everyday; School / University,0,1,0,0,1,0,Maybe later,not_started,0,,,50,No
+ALDO_SYN_0348,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9.5,Shoes feel too narrow; Shoes often feel too small,0,1,0,0,1,0,0,0,Style,Everyday,0,1,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0349,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,10.5,Tight around my toes,1,0,0,0,0,0,0,0,A balance of both,Work; Everyday,1,1,0,0,0,0,At home,completed,1,27.3,10.5,75,Yes
+ALDO_SYN_0350,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9,Shoes feel too narrow; Shoes often feel too big,0,1,0,0,0,1,0,0,Style,Work; Everyday,1,1,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0351,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9,Tight around my toes; Shoes feel too narrow,1,1,0,0,0,0,0,0,Comfort,Special occasions,0,0,0,1,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0352,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6.5,Tight around my toes,1,0,0,0,0,0,0,0,Style,Going out,0,0,1,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0353,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,5.5,Tight around my toes; Shoes often feel too big,1,0,0,0,0,1,0,0,Comfort,Everyday; Going out,0,1,1,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0354,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9,No fit issues,0,0,0,0,0,0,1,0,A balance of both,Everyday; Special occasions,0,1,0,1,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0355,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9.5,Tight around my toes; Shoes feel too wide,1,0,1,0,0,0,0,0,A balance of both,Special occasions,0,0,0,1,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0356,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,10,Tight around my toes; Shoes feel too wide; My heels slip,1,0,1,1,0,0,0,0,Style,Work; School / University,1,0,0,0,1,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0357,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,7,Tight around my toes; Shoes feel too narrow; Shoes often feel too big,1,1,0,0,0,1,0,0,Comfort,Work,1,0,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0358,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9,Tight around my toes,1,0,0,0,0,0,0,0,A balance of both,Work; Everyday,1,1,0,0,0,0,Maybe later,not_started,0,,,50,No
+ALDO_SYN_0359,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,No fit issues,0,0,0,0,0,0,1,0,A balance of both,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0360,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,11.5,Tight around my toes; Shoes often feel too big,1,0,0,0,0,1,0,0,A balance of both,Everyday; Going out,0,1,1,0,0,0,Maybe later,not_started,0,,,50,No
+ALDO_SYN_0361,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,Shoes feel too wide,0,0,1,0,0,0,0,0,Style,Everyday,0,1,0,0,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0362,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9.5,Shoes feel too wide,0,0,1,0,0,0,0,0,Style,Everyday,0,1,0,0,0,0,At home,completed,1,26.8,10.0,75,Yes
+ALDO_SYN_0363,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,8,Shoes feel too narrow,0,1,0,0,0,0,0,0,Comfort,Work; Special occasions; School / University,1,0,0,1,1,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0364,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,10,Not sure,0,0,0,0,0,0,0,1,A balance of both,Going out,0,0,1,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0365,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9,Shoes often feel too big,0,0,0,0,0,1,0,0,Style,Special occasions,0,0,0,1,0,0,At home,completed,1,26.7,11.0,75,Yes
+ALDO_SYN_0366,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Shoes feel too wide,0,0,1,0,0,0,0,0,A balance of both,Going out,0,0,1,0,0,0,Maybe later,not_started,0,,,50,No
+ALDO_SYN_0367,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Shoes feel too wide,0,0,1,0,0,0,0,0,Comfort,Work; Everyday,1,1,0,0,0,0,At home,completed,1,22.9,8.6,75,Yes
+ALDO_SYN_0368,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9.5,Shoes often feel too small,0,0,0,0,1,0,0,0,Style,,0,0,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0369,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9,Tight around my toes; My heels slip; Shoes often feel too small,1,0,0,1,1,0,0,0,Comfort,Everyday,0,1,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0370,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,10,Shoes often feel too small,0,0,0,0,1,0,0,0,Comfort,,0,0,0,0,0,0,At home,completed,1,25.1,9.5,75,Yes
+ALDO_SYN_0371,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,10,Shoes feel too narrow; Shoes often feel too small,0,1,0,0,1,0,0,0,A balance of both,Work; Everyday,1,1,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0372,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9.5,My heels slip,0,0,0,1,0,0,0,0,A balance of both,Everyday; Going out,0,1,1,0,0,0,Maybe later,not_started,0,,,50,No
+ALDO_SYN_0373,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,7,No fit issues,0,0,0,0,0,0,1,0,A balance of both,Everyday; Going out,0,1,1,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0374,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,Tight around my toes; Shoes feel too narrow; Shoes often feel too small; Shoes often feel too big,1,1,0,0,1,1,0,0,Comfort,,0,0,0,0,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0375,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,10.5,Tight around my toes,1,0,0,0,0,0,0,0,A balance of both,Everyday,0,1,0,0,0,0,At home,completed,1,27.5,10.7,75,Yes
+ALDO_SYN_0376,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,Shoes feel too narrow,0,1,0,0,0,0,0,0,A balance of both,Going out,0,0,1,0,0,0,At home,completed,1,22.3,8.1,75,Yes
+ALDO_SYN_0377,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,My heels slip; Shoes often feel too small,0,0,0,1,1,0,0,0,Comfort,Work,1,0,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0378,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9.5,No fit issues,0,0,0,0,0,0,1,0,Style,Everyday; Going out,0,1,1,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0379,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6,Shoes feel too narrow,0,1,0,0,0,0,0,0,Comfort,Everyday; Going out; Special occasions,0,1,1,1,0,0,At home,completed,1,20.8,8.0,75,Yes
+ALDO_SYN_0380,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,10.5,No fit issues,0,0,0,0,0,0,1,0,A balance of both,Everyday,0,1,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0381,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Shoes often feel too big,0,0,0,0,0,1,0,0,A balance of both,Everyday; School / University,0,1,0,0,1,0,In store,pending,0,,,50,No
+ALDO_SYN_0382,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9.5,Shoes feel too narrow; Shoes often feel too small,0,1,0,0,1,0,0,0,Comfort,Everyday,0,1,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0383,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,Tight around my toes; Shoes often feel too small,1,0,0,0,1,0,0,0,A balance of both,Going out,0,0,1,0,0,0,At home,completed,1,24.2,8.8,75,Yes
+ALDO_SYN_0384,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,8.5,Tight around my toes,1,0,0,0,0,0,0,0,Comfort,Work; Everyday; Going out,1,1,1,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0385,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,8,Shoes feel too wide,0,0,1,0,0,0,0,0,A balance of both,School / University,0,0,0,0,1,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0386,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6,My heels slip,0,0,0,1,0,0,0,0,Comfort,Work,1,0,0,0,0,0,In store,pending,0,,,50,No
+ALDO_SYN_0387,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,Shoes feel too narrow,0,1,0,0,0,0,0,0,A balance of both,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0388,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9,Shoes feel too narrow,0,1,0,0,0,0,0,0,A balance of both,Special occasions,0,0,0,1,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0389,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,10,No fit issues,0,0,0,0,0,0,1,0,Comfort,Work,1,0,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0390,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9.5,Not sure,0,0,0,0,0,0,0,1,A balance of both,Everyday,0,1,0,0,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0391,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,Tight around my toes,1,0,0,0,0,0,0,0,Style,Everyday; School / University,0,1,0,0,1,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0392,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,Shoes feel too wide,0,0,1,0,0,0,0,0,A balance of both,Work,1,0,0,0,0,0,At home,completed,1,22.3,8.0,75,Yes
+ALDO_SYN_0393,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6,My heels slip,0,0,0,1,0,0,0,0,Comfort,Everyday,0,1,0,0,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0394,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,11,Shoes feel too narrow,0,1,0,0,0,0,0,0,Style,Work,1,0,0,0,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0395,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,Tight around my toes,1,0,0,0,0,0,0,0,Style,Everyday,0,1,0,0,0,0,At home,completed,1,23.7,8.7,75,Yes
+ALDO_SYN_0396,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,No fit issues,0,0,0,0,0,0,1,0,A balance of both,Going out; School / University,0,0,1,0,1,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0397,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,8,No fit issues,0,0,0,0,0,0,1,0,Comfort,Everyday,0,1,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0398,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,5.5,No fit issues,0,0,0,0,0,0,1,0,A balance of both,Everyday,0,1,0,0,0,0,At home,completed,1,20.8,8.1,75,Yes
+ALDO_SYN_0399,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,8,Tight around my toes; Shoes feel too wide; Shoes often feel too big,1,0,1,0,0,1,0,0,A balance of both,Everyday; Special occasions,0,1,0,1,0,0,At home,completed,1,25.9,9.2,75,Yes
+ALDO_SYN_0400,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Tight around my toes; Shoes feel too wide; Shoes often feel too small,1,0,1,0,1,0,0,0,A balance of both,Everyday,0,1,0,0,0,0,At home,completed,1,23.1,8.3,75,Yes
+ALDO_SYN_0401,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Shoes feel too narrow; My heels slip,0,1,0,1,0,0,0,0,A balance of both,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,At home,completed,1,23.5,9.2,75,Yes
+ALDO_SYN_0402,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,Shoes often feel too small; Shoes often feel too big,0,0,0,0,1,1,0,0,A balance of both,,0,0,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0403,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,5.5,Tight around my toes; My heels slip,1,0,0,1,0,0,0,0,A balance of both,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,Maybe later,not_started,0,,,50,No
+ALDO_SYN_0404,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6.5,My heels slip; Shoes often feel too big,0,0,0,1,0,1,0,0,Comfort,Everyday,0,1,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0405,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9,My heels slip,0,0,0,1,0,0,0,0,A balance of both,Special occasions,0,0,0,1,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0406,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6.5,No fit issues,0,0,0,0,0,0,1,0,Comfort,,0,0,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0407,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9.5,Shoes feel too wide; My heels slip,0,0,1,1,0,0,0,0,A balance of both,Special occasions,0,0,0,1,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0408,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6.5,Tight around my toes,1,0,0,0,0,0,0,0,A balance of both,Work; Everyday; Special occasions,1,1,0,1,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0409,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9.5,Shoes feel too narrow,0,1,0,0,0,0,0,0,A balance of both,Work; Special occasions,1,0,0,1,0,0,Maybe later,not_started,0,,,50,No
+ALDO_SYN_0410,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,No fit issues,0,0,0,0,0,0,1,0,Comfort,Everyday,0,1,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0411,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6,My heels slip,0,0,0,1,0,0,0,0,A balance of both,Everyday,0,1,0,0,0,0,Maybe later,not_started,0,,,50,No
+ALDO_SYN_0412,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,8.5,Shoes often feel too big,0,0,0,0,0,1,0,0,Style,Work,1,0,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0413,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Shoes often feel too small,0,0,0,0,1,0,0,0,Style,Work,1,0,0,0,0,0,At home,pending,0,,,50,No
+ALDO_SYN_0414,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,No fit issues,0,0,0,0,0,0,1,0,A balance of both,Everyday; Going out,0,1,1,0,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0415,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6.5,Tight around my toes,1,0,0,0,0,0,0,0,Comfort,,0,0,0,0,0,0,At home,completed,1,22.5,8.3,75,Yes
+ALDO_SYN_0416,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,Shoes feel too wide; Shoes often feel too big,0,0,1,0,0,1,0,0,A balance of both,Everyday; Going out,0,1,1,0,0,0,Maybe later,not_started,0,,,50,No
+ALDO_SYN_0417,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,8.5,Tight around my toes,1,0,0,0,0,0,0,0,Style,Everyday; Special occasions,0,1,0,1,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0418,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9.5,Not sure,0,0,0,0,0,0,0,1,A balance of both,Special occasions,0,0,0,1,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0419,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Tight around my toes; Shoes feel too narrow; Shoes often feel too small,1,1,0,0,1,0,0,0,A balance of both,Going out,0,0,1,0,0,0,At home,completed,1,23.2,8.7,75,Yes
+ALDO_SYN_0420,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,No fit issues,0,0,0,0,0,0,1,0,Style,Everyday; Going out,0,1,1,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0421,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Tight around my toes,1,0,0,0,0,0,0,0,Comfort,Special occasions,0,0,0,1,0,0,Maybe later,not_started,0,,,50,No
+ALDO_SYN_0422,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,Shoes feel too wide,0,0,1,0,0,0,0,0,Style,School / University,0,0,0,0,1,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0423,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,No fit issues,0,0,0,0,0,0,1,0,Comfort,Special occasions,0,0,0,1,0,0,At home,completed,1,23.1,8.9,75,Yes
+ALDO_SYN_0424,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,Tight around my toes; My heels slip; Shoes often feel too big,1,0,0,1,0,1,0,0,Style,Work; Going out,1,0,1,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0425,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,10.5,Shoes feel too wide; Shoes often feel too small,0,0,1,0,1,0,0,0,A balance of both,Going out,0,0,1,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0426,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9.5,No fit issues,0,0,0,0,0,0,1,0,Comfort,Work,1,0,0,0,0,0,Maybe later,not_started,0,,,50,No
+ALDO_SYN_0427,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,Tight around my toes; Shoes often feel too big,1,0,0,0,0,1,0,0,A balance of both,Work; Everyday,1,1,0,0,0,0,At home,completed,1,23.4,8.9,75,No
+ALDO_SYN_0428,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Not sure,0,0,0,0,0,0,0,1,Comfort,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,In store,pending,0,,,50,Yes
+ALDO_SYN_0429,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,No fit issues,0,0,0,0,0,0,1,0,A balance of both,Going out,0,0,1,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0430,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9.5,Tight around my toes; Shoes feel too narrow; Shoes often feel too big,1,1,0,0,0,1,0,0,Comfort,School / University,0,0,0,0,1,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0431,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Shoes feel too narrow,0,1,0,0,0,0,0,0,A balance of both,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,In store,pending,0,,,50,Yes
+ALDO_SYN_0432,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,No fit issues,0,0,0,0,0,0,1,0,Comfort,Work,1,0,0,0,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0433,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6,My heels slip,0,0,0,1,0,0,0,0,A balance of both,Going out,0,0,1,0,0,0,At home,completed,1,21.5,7.3,75,Yes
+ALDO_SYN_0434,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Shoes feel too wide; Shoes often feel too big,0,0,1,0,0,1,0,0,A balance of both,Work; School / University,1,0,0,0,1,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0435,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Shoes feel too wide; Shoes often feel too big,0,0,1,0,0,1,0,0,A balance of both,Everyday,0,1,0,0,0,0,Maybe later,not_started,0,,,50,No
+ALDO_SYN_0436,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6,Tight around my toes; Shoes feel too narrow,1,1,0,0,0,0,0,0,Style,Work; Everyday,1,1,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0437,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,No fit issues,0,0,0,0,0,0,1,0,Comfort,Everyday; Special occasions,0,1,0,1,0,0,At home,completed,1,24.0,9.2,75,Yes
+ALDO_SYN_0438,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,7.5,Shoes often feel too small,0,0,0,0,1,0,0,0,Comfort,Work; Going out,1,0,1,0,0,0,At home,completed,1,25.0,9.7,75,Yes
+ALDO_SYN_0439,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,10,Shoes often feel too small,0,0,0,0,1,0,0,0,Comfort,Work,1,0,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0440,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,Shoes feel too narrow; My heels slip; Shoes often feel too small,0,1,0,1,1,0,0,0,Comfort,,0,0,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0441,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,Shoes often feel too small,0,0,0,0,1,0,0,0,A balance of both,Work; Everyday,1,1,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0442,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Tight around my toes,1,0,0,0,0,0,0,0,Comfort,Work; School / University,1,0,0,0,1,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0443,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9.5,My heels slip,0,0,0,1,0,0,0,0,Style,Everyday; School / University,0,1,0,0,1,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0444,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6.5,My heels slip,0,0,0,1,0,0,0,0,Style,Everyday,0,1,0,0,0,0,At home,completed,1,22.5,8.4,75,Yes
+ALDO_SYN_0445,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,Shoes often feel too small,0,0,0,0,1,0,0,0,Comfort,Special occasions,0,0,0,1,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0446,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,No fit issues,0,0,0,0,0,0,1,0,Comfort,Everyday; Special occasions,0,1,0,1,0,0,At home,completed,1,22.2,7.9,75,Yes
+ALDO_SYN_0447,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,8,No fit issues,0,0,0,0,0,0,1,0,A balance of both,Work; Going out,1,0,1,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0448,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9.5,Shoes feel too narrow,0,1,0,0,0,0,0,0,Style,Special occasions,0,0,0,1,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0449,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,No fit issues,0,0,0,0,0,0,1,0,A balance of both,Work; Going out,1,0,1,0,0,0,At home,completed,1,23.0,8.7,75,Yes
+ALDO_SYN_0450,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,No fit issues,0,0,0,0,0,0,1,0,A balance of both,Work; Everyday,1,1,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0451,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,Shoes often feel too small,0,0,0,0,1,0,0,0,Comfort,Everyday; School / University,0,1,0,0,1,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0452,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,10,Tight around my toes; Shoes feel too narrow,1,1,0,0,0,0,0,0,A balance of both,,0,0,0,0,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0453,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,Shoes often feel too big,0,0,0,0,0,1,0,0,A balance of both,Special occasions,0,0,0,1,0,0,At home,completed,1,22.5,8.7,75,Yes
+ALDO_SYN_0454,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,No fit issues,0,0,0,0,0,0,1,0,Comfort,Everyday; Going out,0,1,1,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0455,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,My heels slip; Shoes often feel too small,0,0,0,1,1,0,0,0,A balance of both,Going out,0,0,1,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0456,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,No fit issues,0,0,0,0,0,0,1,0,Comfort,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,In store,pending,0,,,50,Yes
+ALDO_SYN_0457,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9.5,Tight around my toes; My heels slip,1,0,0,1,0,0,0,0,Comfort,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,At home,completed,1,24.8,9.2,75,Yes
+ALDO_SYN_0458,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9.5,Shoes feel too narrow; Shoes often feel too small,0,1,0,0,1,0,0,0,Comfort,Work,1,0,0,0,0,0,At home,completed,1,24.2,9.6,75,Yes
+ALDO_SYN_0459,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9.5,Shoes often feel too big,0,0,0,0,0,1,0,0,A balance of both,Everyday,0,1,0,0,0,0,At home,completed,1,24.2,8.6,75,Yes
+ALDO_SYN_0460,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,7.5,Not sure,0,0,0,0,0,0,0,1,Style,,0,0,0,0,0,0,At home,completed,1,25.4,9.1,75,Yes
+ALDO_SYN_0461,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,11,Shoes feel too wide,0,0,1,0,0,0,0,0,A balance of both,Everyday; Special occasions,0,1,0,1,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0462,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,Tight around my toes; My heels slip; Shoes often feel too big,1,0,0,1,0,1,0,0,Comfort,Work; Going out,1,0,1,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0463,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,7.5,Tight around my toes; Shoes feel too wide; Shoes often feel too big,1,0,1,0,0,1,0,0,A balance of both,Everyday; Going out; School / University,0,1,1,0,1,0,At home,completed,1,24.9,9.7,75,Yes
+ALDO_SYN_0464,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,No fit issues,0,0,0,0,0,0,1,0,A balance of both,Everyday; Going out,0,1,1,0,0,0,At home,completed,1,22.0,8.0,75,Yes
+ALDO_SYN_0465,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,Shoes feel too narrow,0,1,0,0,0,0,0,0,A balance of both,School / University,0,0,0,0,1,0,At home,completed,1,22.8,8.8,75,Yes
+ALDO_SYN_0466,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9.5,Tight around my toes,1,0,0,0,0,0,0,0,A balance of both,Work; School / University,1,0,0,0,1,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0467,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6.5,Shoes often feel too big,0,0,0,0,0,1,0,0,Comfort,Everyday; Special occasions,0,1,0,1,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0468,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,Shoes feel too narrow,0,1,0,0,0,0,0,0,A balance of both,Work; Everyday; Going out; Special occasions; School / University,1,1,1,1,1,1,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0469,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Not sure,0,0,0,0,0,0,0,1,A balance of both,Special occasions,0,0,0,1,0,0,At home,completed,1,23.2,8.0,75,Yes
+ALDO_SYN_0470,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,11,Shoes feel too narrow,0,1,0,0,0,0,0,0,Style,Everyday; School / University,0,1,0,0,1,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0471,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Shoes feel too narrow; My heels slip,0,1,0,1,0,0,0,0,Style,Going out; School / University,0,0,1,0,1,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0472,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,Tight around my toes; Shoes feel too narrow,1,1,0,0,0,0,0,0,Style,Everyday; Special occasions,0,1,0,1,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0473,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6.5,Tight around my toes,1,0,0,0,0,0,0,0,Style,Everyday,0,1,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0474,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,8,Tight around my toes; My heels slip,1,0,0,1,0,0,0,0,A balance of both,,0,0,0,0,0,0,At home,completed,1,25.4,10.1,75,Yes
+ALDO_SYN_0475,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,No fit issues,0,0,0,0,0,0,1,0,Comfort,Special occasions; School / University,0,0,0,1,1,0,At home,completed,1,24.0,9.3,75,Yes
+ALDO_SYN_0476,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,My heels slip,0,0,0,1,0,0,0,0,Comfort,Everyday; School / University,0,1,0,0,1,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0477,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9.5,Tight around my toes,1,0,0,0,0,0,0,0,Comfort,Everyday; Going out,0,1,1,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0478,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9.5,No fit issues,0,0,0,0,0,0,1,0,Comfort,Everyday,0,1,0,0,0,0,At home,completed,1,26.1,10.5,75,Yes
+ALDO_SYN_0479,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Tight around my toes; My heels slip,1,0,0,1,0,0,0,0,A balance of both,Work,1,0,0,0,0,0,At home,completed,1,23.0,8.7,75,Yes
+ALDO_SYN_0480,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,Shoes feel too narrow,0,1,0,0,0,0,0,0,A balance of both,,0,0,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0481,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,Shoes feel too narrow; Shoes often feel too big,0,1,0,0,0,1,0,0,Comfort,Everyday; Special occasions,0,1,0,1,0,0,At home,completed,1,24.2,9.3,75,Yes
+ALDO_SYN_0482,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6.5,My heels slip; Shoes often feel too small,0,0,0,1,1,0,0,0,A balance of both,Everyday,0,1,0,0,0,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0483,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,10.5,Tight around my toes,1,0,0,0,0,0,0,0,Comfort,Everyday; Special occasions,0,1,0,1,0,0,At home,completed,1,27.8,11.5,75,No
+ALDO_SYN_0484,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,Shoes feel too narrow,0,1,0,0,0,0,0,0,A balance of both,Work,1,0,0,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0485,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Tight around my toes,1,0,0,0,0,0,0,0,A balance of both,School / University,0,0,0,0,1,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0486,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,10,Shoes often feel too small,0,0,0,0,1,0,0,0,Comfort,Work,1,0,0,0,0,0,Maybe later,not_started,0,,,50,No
+ALDO_SYN_0487,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,Tight around my toes,1,0,0,0,0,0,0,0,A balance of both,Work; Everyday; School / University,1,1,0,0,1,0,At home,completed,1,22.9,9.1,75,Yes
+ALDO_SYN_0488,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7.5,Shoes feel too narrow,0,1,0,0,0,0,0,0,Style,Going out,0,0,1,0,0,0,Maybe later,not_started,0,,,50,No
+ALDO_SYN_0489,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Shoes often feel too big,0,0,0,0,0,1,0,0,A balance of both,,0,0,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0490,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8.5,No fit issues,0,0,0,0,0,0,1,0,A balance of both,Work; Going out,1,0,1,0,0,0,Maybe later,not_started,0,,,50,No
+ALDO_SYN_0491,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Not sure,0,0,0,0,0,0,0,1,A balance of both,Work; Everyday; Going out,1,1,1,0,0,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0492,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9.5,Shoes often feel too big,0,0,0,0,0,1,0,0,Comfort,,0,0,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0493,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,My heels slip,0,0,0,1,0,0,0,0,A balance of both,Special occasions; School / University,0,0,0,1,1,0,At home,pending,0,,,50,Yes
+ALDO_SYN_0494,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,9,Shoes feel too narrow,0,1,0,0,0,0,0,0,Style,Everyday; Going out,0,1,1,0,0,0,At home,completed,1,24.0,9.5,75,Yes
+ALDO_SYN_0495,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,Tight around my toes,1,0,0,0,0,0,0,0,A balance of both,Work,1,0,0,0,0,0,At home,completed,1,21.9,8.0,75,No
+ALDO_SYN_0496,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,6.5,No fit issues,0,0,0,0,0,0,1,0,A balance of both,Work; Everyday; School / University,1,1,0,0,1,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0497,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9,No fit issues,0,0,0,0,0,0,1,0,A balance of both,,0,0,0,0,0,0,Maybe later,not_started,0,,,50,Yes
+ALDO_SYN_0498,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Men's sizing,9.5,Shoes feel too wide,0,0,1,0,0,0,0,0,Style,Special occasions; School / University,0,0,0,1,1,0,In store,pending,0,,,50,Yes
+ALDO_SYN_0499,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,8,Shoes often feel too small,0,0,0,0,1,0,0,0,A balance of both,Everyday; Special occasions,0,1,0,1,0,0,At home,completed,1,22.5,8.8,75,Yes
+ALDO_SYN_0500,SYNTHETIC_NOT_REAL_ALDO_CUSTOMERS,Women's sizing,7,My heels slip,0,0,0,1,0,0,0,0,Comfort,School / University,0,0,0,0,1,0,In store,pending,0,,,50,Yes
