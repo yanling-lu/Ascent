@@ -14,10 +14,14 @@ dependencies = [
     "hypothesis==6.112.2",
     # Test runner.
     "pytest==8.3.3",
+    # Web framework for the AI Fit Demo UI — serves the JSON API and the static
+    # Demo_UI from a single process. The single documented web dependency, pinned
+    # exactly (ai-fit-demo-ui Requirement 9.4). No front-end build toolchain.
+    "Flask==3.0.3",
 ]
 
 [tool.setuptools.packages.find]
-include = ["ai_fit*"]
+include = ["ai_fit*", "ai_fit_demo_ui*"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

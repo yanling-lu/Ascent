@@ -7,3 +7,7 @@ boto3==1.35.99
 hypothesis==6.112.2
 # Test runner.
 pytest==8.3.3
+# Web framework for the AI Fit Demo UI (ai_fit_demo_ui) — serves the JSON API and
+# the static Demo_UI from a single process. The single documented web dependency,
+# pinned exactly (ai-fit-demo-ui Requirement 9.4).
+Flask==3.0.3

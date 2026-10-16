@@ -1,0 +1,473 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.1 Implement `create_app(*, stub, product_config)` loading the agent once": [
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792103178126
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792103188232
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792103777657
+      }
+    ],
+    "1.2 Write a startup test asserting single load and no network in Stub_Mode": [
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792103178300
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792104688560
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792104922824
+      }
+    ],
+    "2.1 Implement `POST /api/recommendation`": [
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792103178450
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792103785022
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792104208376
+      }
+    ],
+    "2.2 Write serialization / contract tests for the recommendation endpoint": [
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792103178696
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792104699027
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792104924175
+      }
+    ],
+    "3.1 Implement `POST /api/alternatives`": [
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792103178865
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792103785971
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792104209601
+      }
+    ],
+    "3.2 Implement `GET /api/config`": [
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792103178993
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792103787416
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792104439408
+      }
+    ],
+    "3.3 Write endpoint tests for alternatives and config (Stub_Mode)": [
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792103179097
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792104700481
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792104925562
+      }
+    ],
+    "4.1 Implement the error handler and static-asset routes": [
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792103179230
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792103788872
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792104675509
+      }
+    ],
+    "4.2 Write endpoint tests for error handling and static serving": [
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792103179516
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792104701847
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792104926609
+      }
+    ],
+    "5. Checkpoint - service layer": [
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792103179796
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792106259142
+      }
+    ],
+    "6.1 Create `index.html` and `styles.css` for the PDP shell": [
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792103179930
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792103190933
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792103778679
+      }
+    ],
+    "6.2 Create `app.js` bootstrap: fetch `/api/config` and render PDP + size grid": [
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792103180101
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792103789893
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792104210645
+      }
+    ],
+    "6.3 Write DOM-level tests for the PDP shell": [
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792103180282
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792104950329
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792105184359
+      }
+    ],
+    "7.1 Wire the \"Get fit insight\" control and pending/guard states": [
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792103180406
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792104702723
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792104927832
+      }
+    ],
+    "7.2 Render the recommendation from server JSON": [
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792103180638
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792104949759
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792105185091
+      }
+    ],
+    "7.3 Write DOM-level tests for fit-insight trigger and rendering": [
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792103180769
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792105821810
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792106064480
+      }
+    ],
+    "8.1 Implement the Add to Bag warning flow": [
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792103180919
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792105195240
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792105284008
+      }
+    ],
+    "8.2 Render alternatives and the occasion match": [
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792103181070
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792105285046
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792105384869
+      }
+    ],
+    "8.3 Write DOM-level tests for the add-to-bag and alternatives flow": [
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792103181237
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792105822681
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792106065477
+      }
+    ],
+    "9.1 Render the activity trace under a default-collapsed toggle": [
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792103181348
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792105385609
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792105559056
+      }
+    ],
+    "9.2 Write DOM-level tests for the activity trace": [
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792103181485
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792105823852
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792106063151
+      }
+    ],
+    "10.1 Write DOM-level tests for error and retry resilience": [
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792103181622
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792105565976
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792105816990
+      }
+    ],
+    "11.1 Write a single-command Stub_Mode smoke test": [
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792103181916
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792106069575
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792106230332
+      }
+    ],
+    "11.2 Final checkpoint - Ensure all tests pass": [
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792103182069
+      },
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792106262318
+      }
+    ],
+    "1. Set up the package, dependency, and startup wiring": [
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792104923129
+      }
+    ],
+    "2. Implement the recommendation endpoint and JSON serialization contract": [
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792104924347
+      }
+    ],
+    "3. Implement the alternatives and config endpoints": [
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792104925700
+      }
+    ],
+    "4. Add centralized error handling and single-process static serving": [
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792104926719
+      }
+    ],
+    "6. Build the Demo_UI shell: PDP, disclaimer, Demo_Guide, and client state": [
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792105184621
+      }
+    ],
+    "10. Implement non-blocking error and retry handling in the UI": [
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792105817249
+      }
+    ],
+    "9. Implement the collapsible masked activity (trace) rendering": [
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792106063377
+      }
+    ],
+    "7. Implement the fit-insight request and recommendation rendering": [
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792106064634
+      }
+    ],
+    "8. Implement the add-to-bag flow, alternatives, and occasion match": [
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792106065651
+      }
+    ],
+    "11. Checkpoint and end-to-end smoke test": [
+      {
+        "executionId": "5c026571-0830-41db-a4a8-84d6f1daeb5d",
+        "chatSessionId": "sess_7b962eec-e677-498d-bf54-3e2d0329ac31",
+        "timestamp": 1792106262495
+      }
+    ]
+  }
+}

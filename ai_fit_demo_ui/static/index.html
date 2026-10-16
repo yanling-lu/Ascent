@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ALDO FIT — Stessy2.0 Demo</title>
+  <link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+  <!--
+    AI Fit Demo UI — ALDO storefront reskin (Stessy2.0, dark red).
+    This file is static structure only. app.js fetches /api/config and the POST
+    endpoints, then populates the containers below BY THEIR IDs. Every id used by
+    app.js is preserved here so the agent-backed fit flow keeps working:
+      PDP:        product-image, product-name, product-price, color-swatches,
+                  size-grid, size-hint
+      Fit panel:  fit-customer-summary, get-fit-insight, fit-pending, fit-result,
+                  occasion-match, activity / activity-toggle / activity-body
+      Actions:    add-to-bag, add-to-bag-warning
+      Alts:       alternatives / alternatives-list / alternatives-empty
+      Chrome:     prototype-disclaimer / disclaimer-text,
+                  demo-guide / demo-guide-steps / demo-guide-hide
+      Errors:     error-banner / error-message / error-retry
+  -->
+
+  <!-- Shipping promo bar -->
+  <div class="promo">Spend $125 for <b>FREE</b> standard shipping.</div>
+
+  <!-- Prototype_Disclaimer banner (served text from /api/config) -->
+  <div id="prototype-disclaimer" class="prototype-disclaimer" role="note">
+    <span id="disclaimer-text">
+      Unofficial hackathon prototype. Not an ALDO storefront.
+    </span>
+  </div>
+
+  <!-- Store chrome -->
+  <header class="site-header">
+    <div class="site-header__inner">
+      <div class="logo">ALDO</div>
+      <div class="site-header__icons">
+        <span aria-hidden="true">&#9906;</span>
+        <span aria-hidden="true">&#9827;</span>
+      </div>
+    </div>
+  </header>
+  <nav class="nav" aria-label="Primary">
+    <span>New &amp; Featured</span>
+    <span>Boot Shop</span>
+    <span>Women</span>
+    <span>Men</span>
+    <span>Bags</span>
+    <span>Accessories</span>
+    <span>Sale</span>
+  </nav>
+
+  <main class="main">
+    <!-- Demo_Guide strip -->
+    <section id="demo-guide" class="demo-guide" aria-label="Demonstration guide">
+      <div class="demo-guide__header">
+        <h2 class="demo-guide__title">Demo guide</h2>
+        <button id="demo-guide-hide" type="button" class="demo-guide__hide">
+          Hide guide
+        </button>
+      </div>
+      <ol id="demo-guide-steps" class="demo-guide__steps"></ol>
+    </section>
+
+    <div class="pdp-layout">
+      <!-- Product photos -->
+      <section class="photos" aria-label="Product photos">
+        <div class="photo photo--main">
+          <img id="product-image" class="photo__img" src="" alt="" />
+        </div>
+      </section>
+
+      <!-- PDP info + ALDO FIT panel -->
+      <section class="details" aria-label="Product detail">
+        <div class="details__top">
+          <span class="breadcrumb">Women / Shoes / Pumps</span>
+          <span class="tag">HACKATHON PROTOTYPE</span>
+        </div>
+
+        <h1 id="product-name" class="product-title"></h1>
+        <div class="product-sub">Pump, Stiletto heel</div>
+        <div id="product-price" class="price"></div>
+        <div class="payment">
+          or in 4 payments with <b>Klarna</b> or <b>PayPal</b>
+        </div>
+
+        <div class="block">
+          <h3 class="block__label">Color</h3>
+          <div id="color-swatches" class="color-swatches" role="group"
+               aria-label="Color options"></div>
+        </div>
+
+        <div class="block">
+          <h3 class="block__label">Size</h3>
+          <div id="size-grid" class="size-grid" role="group"
+               aria-label="Size options"></div>
+          <p id="size-hint" class="size-hint" aria-live="polite"></p>
+        </div>
+
+        <div class="actions">
+          <button id="add-to-bag" type="button" class="btn btn--primary">
+            Add To Bag - $110
+          </button>
+          <button type="button" class="btn btn--outline" disabled>
+            Select a size for store availability
+          </button>
+        </div>
+
+        <!-- Add-to-bag warning surface, populated by app.js -->
+        <div id="add-to-bag-warning" class="add-to-bag-warning" hidden
+             aria-live="polite"></div>
+
+        <!-- Fit_Panel "ALDO FIT" -->
+        <aside id="fit-panel" class="fit-panel" aria-label="ALDO FIT assistant">
+          <div class="fit-panel__header">
+            <span class="fit-panel__brand">ALDO FIT <span aria-hidden="true">&#10022;</span></span>
+            <span class="fit-panel__sub">PERSONALIZED FIT</span>
+          </div>
+
+          <!-- Customer fit summary: usual size + comfort priority only -->
+          <div id="fit-customer-summary" class="fit-panel__summary"></div>
+
+          <!-- Fit alert (headline warning), rendered by app.js from the agent's
+               warnings[]. Shown ABOVE the Get fit insight bar. -->
+          <div id="fit-alert" class="fit-alert" aria-live="polite"></div>
+
+          <!-- Occasion match result, populated by app.js. Shown ABOVE the Get
+               fit insight bar. -->
+          <div id="occasion-match" class="fit-panel__occasion"></div>
+
+          <!-- Occasion question: lets the shopper tell the agent the use case.
+               Each choice re-queries /api/recommendation with that occasion. -->
+          <div id="fit-occasion" class="fit-occasion" hidden>
+            <p class="fit-occasion__q">Are these for everyday wear or a special occasion?</p>
+            <div class="fit-occasion__buttons">
+              <button id="occasion-everyday" type="button" class="btn btn--pill"
+                      data-occasion="everyday wear">Everyday</button>
+              <button id="occasion-special" type="button" class="btn btn--pill"
+                      data-occasion="special occasion">Special occasion</button>
+            </div>
+          </div>
+
+          <div id="fit-actions" class="fit-panel__actions">
+            <button id="get-fit-insight" type="button" class="btn btn--dark">
+              Get fit insight <span aria-hidden="true">&rarr;</span>
+            </button>
+          </div>
+
+          <div id="fit-pending" class="fit-panel__pending" hidden aria-live="polite">
+            Checking fit&hellip;
+          </div>
+
+          <!-- Recommendation detail (explanation, evidence), populated by app.js -->
+          <div id="fit-result" class="fit-panel__result"></div>
+
+          <!-- Alternatives render INSIDE the panel, right under the occasion
+               buttons, populated by app.js when an occasion is chosen. -->
+          <section id="alternatives" class="alternatives" aria-label="Alternative styles"
+                   hidden>
+            <h2 class="alternatives__title">Other styles for your occasion</h2>
+            <div id="alternatives-list" class="alternatives__list"></div>
+            <p id="alternatives-empty" class="alternatives__empty" hidden></p>
+          </section>
+
+          <!-- Masked reasoning trace ("Why these picks?") — JUDGES ONLY.
+               Hidden from shoppers by default; revealed in judge mode
+               (open the page with ?judge=1). app.js toggles this via
+               applyJudgeMode(). The trace still renders when revealed. -->
+          <section id="activity" class="activity" aria-label="Agent reasoning (judges)" hidden>
+            <button id="activity-toggle" type="button" class="activity__toggle"
+                    aria-expanded="false" aria-controls="activity-body">
+              Why these picks? <span class="activity__judge-tag">judges</span>
+            </button>
+            <div id="activity-body" class="activity__body" hidden></div>
+          </section>
+        </aside>
+
+        <!-- Store benefits -->
+        <div class="benefits">
+          <div><span class="benefits__icon" aria-hidden="true">&#9827;</span>Easy returns</div>
+          <div><span class="benefits__icon" aria-hidden="true">&#9827;</span>Free shipping over $125</div>
+          <div><span class="benefits__icon" aria-hidden="true">&#9827;</span>Secure checkout</div>
+        </div>
+
+        <details class="accordion" open>
+          <summary class="accordion__summary">Product Features</summary>
+          <p class="accordion__body">
+            <b>Pillow Walk&trade;</b> &mdash; designed with dual density foam and
+            padded insoles, this style is extra comfortable.
+          </p>
+        </details>
+
+        <details class="accordion">
+          <summary class="accordion__summary">Product Details</summary>
+          <div class="accordion__body">
+            <ul class="accordion__list">
+              <li>Pointed-toe stiletto pump in dark red.</li>
+              <li>Heel height: approximately 3.5&quot; (90 mm).</li>
+              <li>Synthetic upper and lining; textured outsole for grip.</li>
+              <li>Style: Stessy2.0 &middot; SKU 14404716 &middot; Color 609-002-033.</li>
+              <li>Imported.</li>
+            </ul>
+          </div>
+        </details>
+
+        <details class="accordion">
+          <summary class="accordion__summary">Shipping &amp; Returns</summary>
+          <div class="accordion__body">
+            <p>
+              Free standard shipping on orders over $125; standard delivery in
+              4&ndash;7 business days. Express options available at checkout.
+            </p>
+            <p>
+              Free returns within 30 days of delivery. Items must be unworn, in
+              original condition and packaging. Start a return from your account
+              or any ALDO store.
+            </p>
+            <p class="accordion__note">
+              Demo only &mdash; no real order, shipment, or return is processed.
+            </p>
+          </div>
+        </details>
+      </section>
+    </div>
+  </main>
+
+  <!-- Non-blocking error banner with retry, populated by app.js -->
+  <div id="error-banner" class="error-banner" hidden role="alert">
+    <span id="error-message" class="error-banner__message"></span>
+    <button id="error-retry" type="button" class="btn btn--ghost">Retry</button>
+  </div>
+
+  <div class="footer-note">Unofficial hackathon prototype &middot; Not an ALDO storefront</div>
+
+  <script src="/static/demo_alternatives.js" defer></script>
+  <script src="/static/app.js" defer></script>
+</body>
+</html>
